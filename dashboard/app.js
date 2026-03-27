@@ -45,11 +45,8 @@ function renderSummary(s) {
   pnlEl.className = 'stat-value ' + (pnl > 0 ? 'pos' : pnl < 0 ? 'neg' : '');
 
   const roi = parseFloat(s.roi) || 0;
-  const total = s.total_bets || 0;
   const roiEl = el('roi');
-  roiEl.textContent = total < 10
-    ? `${(roi >= 0 ? '+' : '')}${(roi * 100).toFixed(1)}% (small sample)`
-    : `${(roi >= 0 ? '+' : '')}${(roi * 100).toFixed(1)}%`;
+  roiEl.textContent = (roi >= 0 ? '+' : '') + (roi * 100).toFixed(1) + '%';
   roiEl.className = 'stat-value ' + (roi > 0 ? 'pos' : roi < 0 ? 'neg' : '');
 
   el('total-bets').textContent = s.total_bets || 0;
