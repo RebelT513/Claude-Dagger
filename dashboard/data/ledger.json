@@ -1,9 +1,11 @@
 [
   {
     "date": "2026-03-27",
-    "game": "New York Yankees @ San Francisco Giants",
+    "game": "NYY @ SF",
     "bet_type": "pregame",
     "market": "h2h",
+    "selection": "NYY",
+    "odds": "-128",
     "line": "-128",
     "units": "1",
     "confidence_score": "63",
@@ -14,9 +16,11 @@
   },
   {
     "date": "2026-03-27",
-    "game": "LAA_HOU_20260327",
+    "game": "LAA @ HOU",
     "bet_type": "pregame",
     "market": "totals",
+    "selection": "o8.5",
+    "odds": "-116",
     "line": "8.5",
     "units": "1",
     "confidence_score": "58",
