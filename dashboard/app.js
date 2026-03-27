@@ -39,16 +39,17 @@ function renderSummary(s) {
   const wr = parseFloat(s.win_rate) || 0;
   el('win-rate').textContent = (wr * 100).toFixed(1) + '%';
 
-  const bankroll = parseFloat(s.bankroll_current) || 500;
-  const start = parseFloat(s.bankroll_start) || 500;
-  const pnl = bankroll - start;
+  const pnl = parseFloat(s.total_pnl) || 0;
   const pnlEl = el('pnl');
   pnlEl.textContent = fmt$(pnl);
   pnlEl.className = 'stat-value ' + (pnl > 0 ? 'pos' : pnl < 0 ? 'neg' : '');
 
   const roi = parseFloat(s.roi) || 0;
+  const total = s.total_bets || 0;
   const roiEl = el('roi');
-  roiEl.textContent = (roi >= 0 ? '+' : '') + (roi * 100).toFixed(1) + '%';
+  roiEl.textContent = total < 10
+    ? `${(roi >= 0 ? '+' : '')}${(roi * 100).toFixed(1)}% (small sample)`
+    : `${(roi >= 0 ? '+' : '')}${(roi * 100).toFixed(1)}%`;
   roiEl.className = 'stat-value ' + (roi > 0 ? 'pos' : roi < 0 ? 'neg' : '');
 
   el('total-bets').textContent = s.total_bets || 0;
@@ -61,7 +62,7 @@ function renderPnlChart(ledger) {
   const ctx = el('pnl-chart').getContext('2d');
   const settled = (ledger || []).filter(e => e.result && e.result !== 'pending');
 
-  if (settled.length < 2) {
+  if (settled.length === 0) {
     new Chart(ctx, {
       type: 'bar',
       data: { labels: ['—'], datasets: [{ data: [0], backgroundColor: 'transparent' }] },
