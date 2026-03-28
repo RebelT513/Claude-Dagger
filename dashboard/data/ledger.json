@@ -74,9 +74,9 @@
     "units": "1",
     "stake_usd": "14.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "12.17",
     "reasoning_summary": "14mph NNW wind in at Citi Field, 32F. Keller vs Peterson. Strongest wind-in signal on the board.",
-    "bankroll_after": "468.72"
+    "bankroll_after": "494.89"
   }
 ]
