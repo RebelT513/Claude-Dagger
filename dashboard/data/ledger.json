@@ -24,9 +24,9 @@
     "line": "8.5",
     "units": "1",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-15.0",
     "reasoning_summary": "Pinnacle line discrepancy: sharp books at 9.0 while Heritage still posted 8.5. Kikuchi vs Burrows in Minute Maid Park. ~2-3% implied probability edge vs Heritage price.",
-    "bankroll_after": "485.0"
+    "bankroll_after": "481.72"
   }
 ]
