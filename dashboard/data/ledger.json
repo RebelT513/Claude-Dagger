@@ -42,10 +42,10 @@
     "units": "1",
     "stake_usd": "14.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "13.46",
     "reasoning_summary": "13mph NNW wind in at Camden Yards, 37F. Bradish vs Bradley. Cold/wind-in strongly suppresses offense.",
-    "bankroll_after": "482.72"
+    "bankroll_after": "510.18"
   },
   {
     "date": "2026-03-28",
