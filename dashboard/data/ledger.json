@@ -27,7 +27,7 @@
     "result": "loss",
     "pnl": "-15.0",
     "reasoning_summary": "Pinnacle line discrepancy: sharp books at 9.0 while Heritage still posted 8.5. Kikuchi vs Burrows in Minute Maid Park. ~2-3% implied probability edge vs Heritage price.",
-    "bankroll_after": "481.72"
+    "bankroll_after": "496.72"
   },
   {
     "date": "2026-03-28",
@@ -42,7 +42,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "13mph NNW wind in at Camden Yards, 37F. Bradish vs Bradley. Cold/wind-in strongly suppresses offense.",
-    "bankroll_after": "467.72"
+    "bankroll_after": "482.72"
   },
   {
     "date": "2026-03-28",
@@ -57,7 +57,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "12mph NNW wind in at Citizens Bank Park, 35F. deGrom vs Nola ace matchup. Wind-in neutralizes CBP.",
-    "bankroll_after": "453.72"
+    "bankroll_after": "468.72"
   },
   {
     "date": "2026-03-28",
@@ -72,6 +72,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "14mph NNW wind in at Citi Field, 32F. Keller vs Peterson. Strongest wind-in signal on the board.",
-    "bankroll_after": "439.72"
+    "bankroll_after": "454.72"
   }
 ]
