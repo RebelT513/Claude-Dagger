@@ -193,18 +193,18 @@
   },
   {
     "date": "2026-03-29",
-    "game": "Boston Red Sox @ Cincinnati Reds",
+    "game": "Chicago White Sox @ Milwaukee Brewers",
     "bet_type": "pregame",
     "market": "h2h",
-    "selection": "Cincinnati Reds",
-    "odds": "-118.0",
-    "line": "-118.0",
+    "selection": "Milwaukee Brewers",
+    "odds": "-159.0",
+    "line": "-159.0",
     "units": "1",
-    "stake_usd": "16",
-    "confidence_score": "57",
+    "stake_usd": "16.0",
+    "confidence_score": "0",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "The 238-point line swing from +120 to -118 is the dominant signal here \u00e2\u20ac\u201d this magnitude of movement almost exclusively reflects sharp/syndicate action, not public drift. SP data is essentially unusable at 1 IP each, but Lowder's early-season line (",
+    "reasoning_summary": "UNINTENDED BET \u2014 G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
     "bankroll_after": "506.35"
   }
 ]
