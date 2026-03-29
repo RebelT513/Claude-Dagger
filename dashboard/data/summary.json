@@ -1,5 +1,5 @@
 {
-  "bankroll_current": 536.35,
+  "bankroll_current": 522.35,
   "bankroll_start": 500.0,
   "total_pnl": 22.35,
   "total_bets": 4,
@@ -27,8 +27,8 @@
     },
     {
       "date": "2026-03-28",
-      "bankroll_after": 536.35
+      "bankroll_after": 522.35
     }
   ],
-  "last_updated": "2026-03-28"
+  "last_updated": "2026-03-29"
 }
