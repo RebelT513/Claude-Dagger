@@ -206,5 +206,21 @@
     "pnl": "0.0",
     "reasoning_summary": "UNINTENDED BET \u2014 G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
     "bankroll_after": "506.35"
+  },
+  {
+    "date": "2026-03-29",
+    "game": "Texas Rangers @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "152.0",
+    "line": "152.0",
+    "units": "1",
+    "stake_usd": "17",
+    "confidence_score": "44",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Gore (ERA 3.38, WHIP 0.94) holds a decisive edge over Luzardo (ERA 9.00, WHIP 1.17), yet Texas is priced at +152, implying only 39.7% win probability \u00e2\u20ac\u201d roughly 4-5 points below what the SP matchup justifies. The PHI bullpen is severely taxed, with ",
+    "bankroll_after": "546.08"
   }
 ]
