@@ -91,9 +91,9 @@
     "stake_usd": "16.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "14.04",
+    "pnl": "14.08",
     "reasoning_summary": "Matz (ERA 3.05, WHIP 1.10) clear edge over May (ERA 4.96, WHIP 1.42). Cardinals bullpen more taxed (6 relievers at 2+ apps). Slight line movement toward Tampa Bay.",
-    "bankroll_after": "536.39"
+    "bankroll_after": "536.43"
   },
   {
     "date": "2026-03-29",
@@ -155,9 +155,9 @@
     "stake_usd": "16",
     "confidence_score": "58",
     "result": "win",
-    "pnl": "13.22",
+    "pnl": "13.27",
     "reasoning_summary": "Luis Morales (ERA 3.14, WHIP 1.15) and Eric Lauer (ERA 3.18, WHIP 1.11) are the two best starters on today slate. Dome venue, no weather variance. Two elite SPs suggest suppressed scoring across full game. Bet landed as full-game under due to 1H column switcher malfunction.",
-    "bankroll_after": "535.57"
+    "bankroll_after": "535.66"
   },
   {
     "date": "2026-03-29",
@@ -171,9 +171,9 @@
     "stake_usd": "16.0",
     "confidence_score": "58",
     "result": "win",
-    "pnl": "13.22",
+    "pnl": "13.27",
     "reasoning_summary": "DUPLICATE BET \u00ef\u00bf\u00bd placed accidentally due to betslip clear failure before TBR attempt. Same as prior entry. Bet G9036603 confirmed by sportsbook.",
-    "bankroll_after": "535.57"
+    "bankroll_after": "535.71"
   },
   {
     "date": "2026-03-29",
@@ -235,9 +235,9 @@
     "stake_usd": "16.0",
     "confidence_score": "0",
     "result": "win",
-    "pnl": "10.06",
+    "pnl": "10.09",
     "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
-    "bankroll_after": "532.41"
+    "bankroll_after": "532.58"
   },
   {
     "date": "2026-03-29",
@@ -253,7 +253,7 @@
     "result": "win",
     "pnl": "25.84",
     "reasoning_summary": "Gore (ERA 3.38, WHIP 0.94) holds a decisive edge over Luzardo (ERA 9.00, WHIP 1.17), yet Texas is priced at +152, implying only 39.7% win probability \u00e2\u20ac\u201d roughly 4-5 points below what the SP matchup justifies. The PHI bullpen is severely taxed, with ",
-    "bankroll_after": "588.92"
+    "bankroll_after": "589.09"
   },
   {
     "date": "2026-03-29",
@@ -269,7 +269,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Intentional pregame bet placed in prior session. J Leiter vs Chris Bassitt. TEX +108 underdog value play.",
-    "bankroll_after": "571.92"
+    "bankroll_after": "572.09"
   },
   {
     "date": "2026-03-29",
@@ -285,6 +285,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "TOR 1H ML (Cody Ponce) vs COL (Tomoyuki Sugano). Corrected from erroneous COL@MIA entry \u00e2\u20ac\u201d actual bet was COL@TOR at -244. Ticket 293185280.",
-    "bankroll_after": "554.92"
+    "bankroll_after": "555.09"
   }
 ]
