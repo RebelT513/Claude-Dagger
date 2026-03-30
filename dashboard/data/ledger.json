@@ -318,5 +318,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Ashcraft (2.71 ERA, 1.25 WHIP, 69.2 IP) holds a clear advantage over Burns (4.57 ERA, 1.32 WHIP, 43.1 IP) as the starting pitcher, and that edge is the primary signal here. The line moved 14 cents away from Cincinnati (from -124 to -110), consistent ",
     "bankroll_after": "506.29999999999995"
+  },
+  {
+    "date": "2026-03-30",
+    "game": "Washington Nationals @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9.0",
+    "odds": "-110.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Walker (4.08 ERA, 1.41 WHIP) is a run-suppression liability, and Griffin enters with 0 IP this season \u00e2\u20ac\u201d debut-quality uncertainty skews scoring upward. The PHI bullpen is severely compromised: Nola (91 pitches) and Luzardo (99 pitches) both threw y",
+    "bankroll_after": "506.29999999999995"
   }
 ]
