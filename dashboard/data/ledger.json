@@ -270,5 +270,21 @@
     "pnl": "0.0",
     "reasoning_summary": "TOR 1H ML (Cody Ponce) vs COL (Tomoyuki Sugano). Corrected from erroneous COL@MIA entry \u00e2\u20ac\u201d actual bet was COL@TOR at -244. Ticket 293185280.",
     "bankroll_after": "529.25"
+  },
+  {
+    "date": "2026-03-30",
+    "game": "Texas Rangers @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-117.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "0",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Placed 1:03 AM PT. TEX@BAL over 9 at -117. Expected pnl $13.65 per sportsbook slip. Logging reconstructed \u00e2\u20ac\u201d original session context unavailable.",
+    "bankroll_after": "513.25"
   }
 ]
