@@ -250,10 +250,10 @@
     "units": "1",
     "stake_usd": "17",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "18.36",
     "reasoning_summary": "Intentional pregame bet placed in prior session. J Leiter vs Chris Bassitt. TEX +108 underdog value play.",
-    "bankroll_after": "546.25"
+    "bankroll_after": "540.66"
   },
   {
     "date": "2026-03-29",
@@ -266,10 +266,10 @@
     "units": "1",
     "stake_usd": "17",
     "confidence_score": "59",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-17",
     "reasoning_summary": "TOR 1H ML (Cody Ponce) vs COL (Tomoyuki Sugano). Corrected from erroneous COL@MIA entry \u00e2\u20ac\u201d actual bet was COL@TOR at -244. Ticket 293185280.",
-    "bankroll_after": "529.25"
+    "bankroll_after": "523.66"
   },
   {
     "date": "2026-03-30",
@@ -282,10 +282,10 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "0",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-16",
     "reasoning_summary": "Placed 1:03 AM PT. TEX@BAL over 9 at -117. Expected pnl $13.65 per sportsbook slip. Logging reconstructed \u00e2\u20ac\u201d original session context unavailable.",
-    "bankroll_after": "513.25"
+    "bankroll_after": "507.66"
   },
   {
     "date": "2026-03-30",
@@ -298,10 +298,10 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "63",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "10.46",
     "reasoning_summary": "Bubic holds a meaningful edge over Woods Richardson across every key SP metric \u00e2\u20ac\u201d ERA 2.55 vs 4.04, WHIP 1.18 vs 1.28, BB/9 3.0 vs 3.7. The 1H market isolates that advantage cleanly: bullpen tax (6 taxed KC relievers) is irrelevant before the 6th in",
-    "bankroll_after": "506.3"
+    "bankroll_after": "518.12"
   },
   {
     "date": "2026-03-30",
@@ -314,10 +314,10 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-16",
     "reasoning_summary": "Ticket G9047620. Ashcraft (2.71 ERA, 1.25 WHIP) holds clear SP edge over Burns (4.57 ERA). Line moved 14 pts toward PIT (CIN -124 to -110), sharp money on PIT. CIN bullpen more taxed (5 vs 3). Odds moved from -106 to +116 between evaluation and placement \u00e2\u20ac\u201d still value.",
-    "bankroll_after": "506.3"
+    "bankroll_after": "502.12"
   },
   {
     "date": "2026-03-30",
@@ -330,10 +330,10 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "0",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "13.52",
     "reasoning_summary": "UNINTENDED BET \u00e2\u20ac\u201d Ticket G9047636. Placed by parallel cron session. Interactive session explicitly PASSED on this game \u00e2\u20ac\u201d Foster Griffin 0.0 IP season debut made this unevaluable. Not an intentional pick.",
-    "bankroll_after": "506.3"
+    "bankroll_after": "515.64"
   },
   {
     "date": "2026-03-30",
@@ -346,10 +346,10 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-16",
     "reasoning_summary": "Ticket G9047789. Leahy (3.07 ERA, 8.2 K/9) holds SP edge over Holmes (3.53 ERA). STL pen less taxed (3 vs 5). Note: interactive session selected STL 1H ML +120; parallel cron session placed full game ML at +131 instead. Full game is riskier \u00e2\u20ac\u201d NYM lineup depth matters after Leahy exits.",
-    "bankroll_after": "506.3"
+    "bankroll_after": "499.64"
   },
   {
     "date": "2026-03-30",
@@ -362,10 +362,10 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "0",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-16",
     "reasoning_summary": "UNINTENDED BET \u00e2\u20ac\u201d Ticket G9047808. Placed by parallel cron session. Interactive session explicitly PASSED on BOS@HOU \u00e2\u20ac\u201d massive 56-pt HOU full-game line shift despite McCullers 6.51 ERA signaled SP change not captured in research data. Not an intentional pick.",
-    "bankroll_after": "506.3"
+    "bankroll_after": "483.64"
   },
   {
     "date": "2026-03-30",
@@ -378,9 +378,9 @@
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "14.55",
     "reasoning_summary": "Sharp money moved the total 0.5 points from 8.5 to 8.0, the strongest signal here. Cold weather (36\u00c2\u00b0F) at a pitcher-friendly park suppresses offense. Messick is the clear SP edge \u00e2\u20ac\u201d 2.72 ERA, 1.31 WHIP, 1.4 BB/9 \u00e2\u20ac\u201d and should provide quality innin",
-    "bankroll_after": "506.29999999999995"
+    "bankroll_after": "498.19"
   }
 ]
