@@ -462,5 +462,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 240-point line swing from Cincinnati -108 to +132 is a powerful market signal \u00e2\u20ac\u201d the sharpest moves in that range typically reflect either SP news or concentrated sharp action, and Williamson's 0 IP this season is the likely driver. For 1H purpo",
     "bankroll_after": "504.09000000000003"
+  },
+  {
+    "date": "2026-03-31",
+    "game": "Chicago White Sox @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Miami Marlins",
+    "odds": "-159.0",
+    "line": "-159.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The 1H is a pure SP matchup, and Junk's profile (WHIP 1.14, BB/9 1.1) represents a substantial edge over Fedde (WHIP 1.52, BB/9 4.3) \u00e2\u20ac\u201d the control gap alone is significant. Fedde's 4.3 BB/9 means persistent baserunner traffic against a home Miami l",
+    "bankroll_after": "504.09000000000003"
   }
 ]
