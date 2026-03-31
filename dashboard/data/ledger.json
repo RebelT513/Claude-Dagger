@@ -430,5 +430,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 240-pt line movement on CIN ML from -108 to +132 confirms sharp market signal of PIT SP dominance. Chandler (0.93 WHIP, 1.1 BB/9) vs Williamson (0.0 IP this season) is a massive quality gap in the first 5 innings. 1H market at -128 isolates Chand",
     "bankroll_after": "504.09000000000003"
+  },
+  {
+    "date": "2026-03-31",
+    "game": "Texas Rangers @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Texas Rangers",
+    "odds": "-140.0",
+    "line": "-140.0",
+    "units": "2",
+    "stake_usd": "32",
+    "confidence_score": "65",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "deGrom (ERA 2.97, WHIP 0.92, K/9 9.6) vs. Eflin (ERA 5.93, WHIP 1.42, K/9 6.3) is one of the starkest SP mismatches on the slate. The 1H market isolates this edge cleanly \u00e2\u20ac\u201d no bullpen variance, pure starter quality over 4-5 innings. Texas's heavily",
+    "bankroll_after": "488.09000000000003"
   }
 ]
