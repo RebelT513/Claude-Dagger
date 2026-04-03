@@ -654,5 +654,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 208-cent sharp line movement toward Pittsburgh (from +106 to -102) is the dominant signal here \u00e2\u20ac\u201d that magnitude indicates strong professional action. Both SPs are quality career arms, but Bradish's 3 BB in 4.2 IP on return from injury hints at ",
     "bankroll_after": "362.06"
+  },
+  {
+    "date": "2026-04-03",
+    "game": "New York Mets @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u4.0",
+    "odds": "-108.0",
+    "line": "4.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Oracle Park at 33\u00c2\u00b0F with moderate rain is an extreme run-suppression environment \u00e2\u20ac\u201d cold kills ball carry and wet conditions further dampen offense. Both starters are in their second outing of the season on managed pitch counts, making the 1H a pur",
+    "bankroll_after": "349.06"
   }
 ]
