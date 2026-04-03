@@ -574,5 +574,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch favors Miami in the first 5 innings. P\u00c3\u00a9rez's peripherals (0.86 WHIP, 10.3 K/9, 1.3 BB/9) are elite across every metric, while Warren's profile is concerning (1.62 WHIP, 4.2 BB/9, 6.2 K/9) \u00e2\u20ac\u201d that WHIP-to-ERA divergence screams seq",
     "bankroll_after": "427.06"
+  },
+  {
+    "date": "2026-04-03",
+    "game": "Chicago Cubs @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Chicago Cubs",
+    "odds": "-120.0",
+    "line": "-111.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Horton's command profile (1.4 BB/9, 0.79 WHIP) is sharply superior to Cantillo's wildness (7.4 BB/9, 1.91 WHIP) in what the 1H market isolates as a pure SP matchup. While both have only 1 start this season and current-year stats carry heavy noise, th",
+    "bankroll_after": "414.06"
   }
 ]
