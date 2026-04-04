@@ -570,8 +570,8 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-13.0",
     "reasoning_summary": "Clear SP mismatch favors Miami in the first 5 innings. P\u00c3\u00a9rez's peripherals (0.86 WHIP, 10.3 K/9, 1.3 BB/9) are elite across every metric, while Warren's profile is concerning (1.62 WHIP, 4.2 BB/9, 6.2 K/9) \u00e2\u20ac\u201d that WHIP-to-ERA divergence screams seq",
     "bankroll_after": "427.06"
   },
@@ -586,10 +586,10 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Horton's command profile (1.4 BB/9, 0.79 WHIP) is sharply superior to Cantillo's wildness (7.4 BB/9, 1.91 WHIP) in what the 1H market isolates as a pure SP matchup. While both have only 1 start this season and current-year stats carry heavy noise, th",
-    "bankroll_after": "414.06"
+    "bankroll_after": "427.06"
   },
   {
     "date": "2026-04-03",
@@ -602,8 +602,8 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-13.0",
     "reasoning_summary": "Boyle and Ober are both quality arms with strong early-season profiles. 1H isolates SP matchup cleanly. Under 4 at plus money in cold weather with two capable starters.",
     "bankroll_after": "401.06"
   },
@@ -634,8 +634,8 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-13.0",
     "reasoning_summary": "Over 8 at -107. Ticket 293512795-1. Placed by system but not logged \u2014 confirmation detection missed it.",
     "bankroll_after": "362.06"
   },
@@ -650,10 +650,10 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "12.75",
     "reasoning_summary": "The 208-cent sharp line movement toward Pittsburgh (from +106 to -102) is the dominant signal here \u00e2\u20ac\u201d that magnitude indicates strong professional action. Both SPs are quality career arms, but Bradish's 3 BB in 4.2 IP on return from injury hints at ",
-    "bankroll_after": "362.06"
+    "bankroll_after": "388.58"
   },
   {
     "date": "2026-04-03",
@@ -669,6 +669,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Oracle Park at 33\u00c2\u00b0F with moderate rain is an extreme run-suppression environment \u00e2\u20ac\u201d cold kills ball carry and wet conditions further dampen offense. Both starters are in their second outing of the season on managed pitch counts, making the 1H a pur",
-    "bankroll_after": "349.06"
+    "bankroll_after": "375.58"
   }
 ]
