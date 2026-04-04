@@ -814,5 +814,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Oracle Park at 33\u00c2\u00b0F with 11 mph ENE wind blowing in creates an extreme run-suppression environment \u00e2\u20ac\u201d cold, wind-in, and one of MLB's most pitcher-friendly dimensions all compounding. Both SPs have comparable prior-year xERAs (~4.3) so the pitching",
     "bankroll_after": "339.81"
+  },
+  {
+    "date": "2026-04-04",
+    "game": "Cincinnati Reds @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Cincinnati Reds",
+    "odds": "113.0",
+    "line": "122.0",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Kumar Rocker is a confirmed below-average pitcher (76 career IP, 5.45 ERA, 5.73 prior-year xERA aligned) while Lowder, though extremely unproven at 35 career IP, shows a promising 1.51 career ERA and was impressive enough for sharp money to move the ",
+    "bankroll_after": "340.78"
   }
 ]
