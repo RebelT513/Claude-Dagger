@@ -190,7 +190,7 @@ function renderTable(ledger) {
   }
 
   // Build rows newest-first with running P&L
-  const settled = [...ledger];
+  const settled = [...ledger].sort((a, b) => (a.date || '').localeCompare(b.date || ''));
   let running = 0;
   const withRunning = settled.map(e => {
     if (e.result && e.result !== 'pending') running += parseFloat(e.pnl) || 0;
