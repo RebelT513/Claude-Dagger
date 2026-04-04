@@ -830,5 +830,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Kumar Rocker is a confirmed below-average pitcher (76 career IP, 5.45 ERA, 5.73 prior-year xERA aligned) while Lowder, though extremely unproven at 35 career IP, shows a promising 1.51 career ERA and was impressive enough for sharp money to move the ",
     "bankroll_after": "340.78"
+  },
+  {
+    "date": "2026-04-04",
+    "game": "Tampa Bay Rays @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Tampa Bay Rays",
+    "odds": "-112.0",
+    "line": "-102.0",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch favors Tampa Bay in the first half. Matz is a proven veteran (4.21 career ERA over 1009 IP, 3.38 prior-year xERA) while Abel is a young, unproven arm with serious command issues (6.80 career ERA over just 42 IP, 5.09 prior-year xERA",
+    "bankroll_after": "328.78"
   }
 ]
