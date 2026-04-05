@@ -92,7 +92,7 @@ function renderSummary(s) {
 
 // ── Cumulative P&L chart ─────────────────────────────────────────────────────
 
-function renderPnlChart(ledger) {
+function renderPnlChart(ledger, summary) {
   const ctx = el('pnl-chart').getContext('2d');
   const settled = (ledger || []).filter(e => e.result && e.result !== 'pending');
 
@@ -109,8 +109,9 @@ function renderPnlChart(ledger) {
     return;
   }
 
-  // Build running P&L series
-  let running = 0;
+  // Build running P&L series — start from the correction offset
+  const correction = summary?.pnl_correction || 0;
+  let running = correction;
   const labels = [], data = [], colors = [];
   for (const e of settled) {
     running += parseFloat(e.pnl) || 0;
@@ -230,7 +231,7 @@ async function init() {
     load('data/ledger.json'),
   ]);
   renderSummary(summary);
-  renderPnlChart(ledger);
+  renderPnlChart(ledger, summary);
   renderTable(ledger);
 }
 
