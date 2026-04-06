@@ -862,5 +862,21 @@
     "pnl": "10.91",
     "reasoning_summary": "Wind out at Fenway Park (elevated-offense park, flagged signal) combined with both SPs likely limited to 4-5 IP based on first-start workload patterns, feeding into heavily taxed bullpens on both sides \u00e2\u20ac\u201d SD has King (81 pitches) and V\u00c3\u00a1squez (83 pi",
     "bankroll_after": "414.21"
+  },
+  {
+    "date": "2026-04-06",
+    "game": "Philadelphia Phillies @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8.0",
+    "odds": "-102.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "32F with 11 mph wind blowing in at Oracle Park creates extreme triple-stacked run suppression: coldest game on the slate, wind-sensitive pitchers park with wind in, and Oracle is already the most offense-suppressing venue in MLB. Both starters had qu",
+    "bankroll_after": "402.69"
   }
 ]
