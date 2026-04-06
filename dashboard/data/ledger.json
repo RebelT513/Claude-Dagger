@@ -858,9 +858,9 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "10.91",
     "reasoning_summary": "Wind out at Fenway Park (elevated-offense park, flagged signal) combined with both SPs likely limited to 4-5 IP based on first-start workload patterns, feeding into heavily taxed bullpens on both sides \u00e2\u20ac\u201d SD has King (81 pitches) and V\u00c3\u00a1squez (83 pi",
-    "bankroll_after": "391.78"
+    "bankroll_after": "414.21"
   }
 ]
