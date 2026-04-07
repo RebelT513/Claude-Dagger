@@ -942,5 +942,21 @@
     "pnl": "0.0",
     "reasoning_summary": "27\u00c2\u00b0F at Target Field is extreme cold \u00e2\u20ac\u201d one of the strongest run-suppression signals available. Skubal is elite (career 3.04 ERA/779 IP, prior-year xERA 2.71) and should keep Minnesota quiet through 6+. Bradley's career 4.75 ERA is mediocre, but fr",
     "bankroll_after": "372.18"
+  },
+  {
+    "date": "2026-04-07",
+    "game": "Kansas City Royals @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "-101.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Extreme cold (30\u00c2\u00b0F) with 12 mph wind blowing in at Progressive Field creates strong run suppression beyond what the 7.0\u00e2\u2020\u20196.5 line move already captures. Both starters are capable of going 5-6 innings (Cameron career 2.95 ERA/143 IP, Williams career",
+    "bankroll_after": "392.99"
   }
 ]
