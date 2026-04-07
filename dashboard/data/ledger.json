@@ -926,5 +926,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Extreme weather suppression: 34\u00c2\u00b0F with 15 mph wind blowing in at Rate Field creates strongly offense-limiting conditions. Rogers (career 3.77 ERA, 533 IP, prior-year xERA 3.41) should dominate through 6+ innings \u00e2\u20ac\u201d his recent form confirms it (1.38",
     "bankroll_after": "384.18"
+  },
+  {
+    "date": "2026-04-07",
+    "game": "Detroit Tigers @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "104.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "27\u00c2\u00b0F at Target Field is extreme cold \u00e2\u20ac\u201d one of the strongest run-suppression signals available. Skubal is elite (career 3.04 ERA/779 IP, prior-year xERA 2.71) and should keep Minnesota quiet through 6+. Bradley's career 4.75 ERA is mediocre, but fr",
+    "bankroll_after": "372.18"
   }
 ]
