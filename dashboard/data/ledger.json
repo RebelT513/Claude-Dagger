@@ -906,10 +906,10 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "10.91",
     "reasoning_summary": "Coors Field at 65F sunny is the premier run-scoring environment in baseball. Bolton career 5.60 ERA, 1.78 WHIP, and 6.43 prior-year xERA over just 45 career IP makes him extremely vulnerable at altitude. Both bullpens are heavily taxed (7 and 5 relie",
-    "bankroll_after": "401.22"
+    "bankroll_after": "419.09"
   },
   {
     "date": "2026-04-07",
