@@ -1086,5 +1086,21 @@
     "pnl": "0.0",
     "reasoning_summary": "38\u00c2\u00b0F at Citi Field with 12 mph SSE wind (blowing in) is a strong, objective run-suppression environment \u00e2\u20ac\u201d one of the coldest games of the season. Neither SP is elite but both are serviceable mid-rotation arms (Nelson career 4.21 ERA/3.93 prior-yea",
     "bankroll_after": "435.31"
+  },
+  {
+    "date": "2026-04-08",
+    "game": "Cincinnati Reds @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.0",
+    "odds": "-110.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "14.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both bullpens are severely taxed \u00e2\u20ac\u201d Cincinnati has 5+ relievers with 2+ recent appearances or starter-level pitch counts from yesterday, Miami has 4+ in similar shape. Late-game scoring is highly likely when both teams must rely on depleted arms aft",
+    "bankroll_after": "421.31"
   }
 ]
