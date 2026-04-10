@@ -1134,5 +1134,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Woods Richardson 4.12/xERA 3.82, Corbin 4.51/xERA 4.77), and both bullpens are severely taxed \u00e2\u20ac\u201d Minnesota has 7 relievers with 2+ appearances in the last 3 days, Toronto has 5. The total dropped 1.5 runs f",
     "bankroll_after": "446.77"
+  },
+  {
+    "date": "2026-04-10",
+    "game": "Boston Red Sox @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o7.5",
+    "odds": "-110.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "14.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "May's decline is structural \u00e2\u20ac\u201d prior-year xERA of 5.20 over a full season confirms he's no longer a league-average starter, and 13 ER in 7.1 IP across two starts this year continues the trajectory. Early has upside (prior-year xERA 2.35) but is walk",
+    "bankroll_after": "432.77"
   }
 ]
