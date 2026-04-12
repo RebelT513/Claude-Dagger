@@ -1,5 +1,5 @@
 {
-  "bankroll_current": 476.54,
+  "bankroll_current": 501.54,
   "bankroll_start": 500.98,
   "total_pnl": 0.56,
   "pnl_correction": -17.4,
@@ -301,7 +301,11 @@
     {
       "date": "2026-04-11",
       "bankroll_after": 501.54
+    },
+    {
+      "date": "2026-04-12",
+      "bankroll_after": 526.54
     }
   ],
-  "last_updated": "2026-04-12 2:33 PM CDT"
+  "last_updated": "2026-04-12 3:54 PM CDT"
 }
