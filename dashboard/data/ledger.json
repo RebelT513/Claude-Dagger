@@ -1162,9 +1162,9 @@
     "units": "1",
     "stake_usd": "15.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "13.27",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Sheehan 4.04/142 IP, Leiter 4.67/198 IP) and neither projects as a shutdown arm. Sheehan is struggling badly early (8.00 ERA, 1.89 WHIP, 5.0 BB/9, 6.16 xERA in 9 IP) and faces no platoon advantage against an",
-    "bankroll_after": "473.27"
+    "bankroll_after": "501.54"
   }
 ]
