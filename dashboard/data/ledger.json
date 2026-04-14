@@ -1198,5 +1198,21 @@
     "pnl": "22.74",
     "reasoning_summary": "Liberatore's career profile is poor (4.58 ERA, 350 IP, xERA 4.90/5.50) and hitters are squaring him up (xwOBA .367), suggesting Cleveland will score. Williams is the better pitcher but his 7.1 BB/9 this season creates free baserunners that can come a",
     "bankroll_after": "525.6"
+  },
+  {
+    "date": "2026-04-14",
+    "game": "Arizona Diamondbacks @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-116.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Wind out at 80\u00c2\u00b0F in Camden Yards (elevated offense park) creates favorable conditions for run scoring. Both bullpens are extremely taxed \u00e2\u20ac\u201d 6 relievers each with recent heavy usage \u00e2\u20ac\u201d making late-inning run production significantly more likely as ",
+    "bankroll_after": "499.6"
   }
 ]
