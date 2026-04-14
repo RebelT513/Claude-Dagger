@@ -1230,5 +1230,21 @@
     "pnl": "0.0",
     "reasoning_summary": "McGreevy's xERA (5.68 current, 4.67 prior year) and xwOBA (.370) signal heavy regression from his 2.16 surface ERA \u00e2\u20ac\u201d he's a low-K contact pitcher consistently outperforming his stuff, with only 5.4 K/9 leaving him reliant on luck and defense. Both ",
     "bankroll_after": "473.6"
+  },
+  {
+    "date": "2026-04-14",
+    "game": "Seattle Mariners @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "-102.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Petco Park at 55\u00c2\u00b0F with 10 mph wind blowing in from WNW creates a strongly run-suppressive environment on top of an already pitcher-friendly park. Bryan Woo (career 3.13 ERA, prior xERA 3.07, 413 IP) is a reliable run suppressor who has been sharp a",
+    "bankroll_after": "447.6"
   }
 ]
