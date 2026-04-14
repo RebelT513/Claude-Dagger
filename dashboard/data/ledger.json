@@ -1214,5 +1214,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Wind out at 80\u00c2\u00b0F in Camden Yards (elevated offense park) creates favorable conditions for run scoring. Both bullpens are extremely taxed \u00e2\u20ac\u201d 6 relievers each with recent heavy usage \u00e2\u20ac\u201d making late-inning run production significantly more likely as ",
     "bankroll_after": "499.6"
+  },
+  {
+    "date": "2026-04-14",
+    "game": "Cleveland Guardians @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-101.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "McGreevy's xERA (5.68 current, 4.67 prior year) and xwOBA (.370) signal heavy regression from his 2.16 surface ERA \u00e2\u20ac\u201d he's a low-K contact pitcher consistently outperforming his stuff, with only 5.4 K/9 leaving him reliant on luck and defense. Both ",
+    "bankroll_after": "473.6"
   }
 ]
