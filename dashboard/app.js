@@ -70,6 +70,16 @@ function abbrevSelection(sel) {
 
 function renderSummary(s) {
   if (!s) return;
+
+  const bankroll = parseFloat(s.bankroll_current);
+  const start = parseFloat(s.bankroll_start);
+  const bankrollEl = el('bankroll');
+  if (bankrollEl && !isNaN(bankroll)) {
+    bankrollEl.textContent = '$' + bankroll.toFixed(2);
+    const delta = bankroll - (isNaN(start) ? bankroll : start);
+    bankrollEl.className = 'stat-value ' + (delta > 0 ? 'pos' : delta < 0 ? 'neg' : '');
+  }
+
   const w = s.wins || 0, l = s.losses || 0, p = s.pushes || 0;
   el('record').textContent = `${w}–${l}${p > 0 ? `–${p}` : ''}`;
 
