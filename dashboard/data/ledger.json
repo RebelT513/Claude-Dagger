@@ -1342,5 +1342,21 @@
     "pnl": "24.51",
     "reasoning_summary": "Citizens Bank Park at 80\u00c2\u00b0F with 15 mph STRONG_OUT wind (+10 mph tailwind to CF) is an elite run-scoring environment \u00e2\u20ac\u201d the strongest weather signal available. Both bullpens are heavily taxed: Cubs have 5 relievers with 2+ appearances in 3 days incl",
     "bankroll_after": "495.87"
+  },
+  {
+    "date": "2026-04-16",
+    "game": "Toronto Blue Jays @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-112.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two starters posting ERAs over 9.00 this season face off in a weather-neutral dome. Corbin is a declining vet with a 4.51 career ERA and his lone start this year was 4 ER in 4 IP. Sproat is showing extreme wildness (8.7 BB/9) with only 31 career IP a",
+    "bankroll_after": "567.34"
   }
 ]
