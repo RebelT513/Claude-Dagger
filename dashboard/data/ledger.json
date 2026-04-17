@@ -1354,8 +1354,8 @@
     "units": "1",
     "stake_usd": "30.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-30.0",
     "reasoning_summary": "Two starters posting ERAs over 9.00 this season face off in a weather-neutral dome. Corbin is a declining vet with a 4.51 career ERA and his lone start this year was 4 ER in 4 IP. Sproat is showing extreme wildness (8.7 BB/9) with only 31 career IP a",
     "bankroll_after": "567.34"
   }
