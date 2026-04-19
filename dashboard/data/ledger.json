@@ -1438,5 +1438,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Coors Field at 5,200 ft with two shaky starters and both bullpens stressed. Sasaki's 6.9 BB/9 is poison at altitude, and he averages just 4 IP, forcing a taxed Dodgers pen to cover five innings. Lorenzen has been crushed early (8.10 ERA) and faces an",
     "bankroll_after": "480.93"
+  },
+  {
+    "date": "2026-04-19",
+    "game": "Atlanta Braves @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-110.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "27.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Philadelphia's posted lineup averages just .639 OPS with three sub-.500 OPS bats in the bottom third (Bohm .414, Stott .493, March\u00c3\u00a1n .257) \u00e2\u20ac\u201d essentially three automatic outs against Holmes (career 3.78 ERA over 205 IP, current xERA 3.16). Painter'",
+    "bankroll_after": "453.93"
   }
 ]
