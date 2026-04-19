@@ -1406,5 +1406,21 @@
     "pnl": "-30.0",
     "reasoning_summary": "Clear lineup mismatch drives the edge: CIN lineup averages .630 OPS with three top-5 bats under .600 (Friedl .417, Benson .532, Lowe .581), while MIN lineup averages .808 OPS with four top-5 bats above .800. Bradley is in career-best form (1.25 ERA, ",
     "bankroll_after": "534.93"
+  },
+  {
+    "date": "2026-04-19",
+    "game": "Texas Rangers @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Seattle Mariners",
+    "odds": "-142.0",
+    "line": "-148.0",
+    "units": "1",
+    "stake_usd": "27.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch at home. Woo has a career 3.15 ERA/0.98 WHIP over 420 IP and a prior-year xERA of 3.07 \u00e2\u20ac\u201d an elite, reliable profile. Gore is a career 4.15 ERA/1.39 WHIP pitcher with prior-year xERA of 4.33 and a 4.7 BB/9 this year (walked 6 in 4.",
+    "bankroll_after": "507.92999999999995"
   }
 ]
