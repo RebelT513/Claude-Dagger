@@ -1418,10 +1418,10 @@
     "units": "1",
     "stake_usd": "27.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "19.09",
     "reasoning_summary": "Clear SP mismatch at home. Woo has a career 3.15 ERA/0.98 WHIP over 420 IP and a prior-year xERA of 3.07 \u00e2\u20ac\u201d an elite, reliable profile. Gore is a career 4.15 ERA/1.39 WHIP pitcher with prior-year xERA of 4.33 and a 4.7 BB/9 this year (walked 6 in 4.",
-    "bankroll_after": "507.92999999999995"
+    "bankroll_after": "554.02"
   },
   {
     "date": "2026-04-19",
@@ -1434,10 +1434,10 @@
     "units": "1",
     "stake_usd": "27.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "26.15",
     "reasoning_summary": "Coors Field at 5,200 ft with two shaky starters and both bullpens stressed. Sasaki's 6.9 BB/9 is poison at altitude, and he averages just 4 IP, forcing a taxed Dodgers pen to cover five innings. Lorenzen has been crushed early (8.10 ERA) and faces an",
-    "bankroll_after": "480.93"
+    "bankroll_after": "534.08"
   },
   {
     "date": "2026-04-19",
@@ -1450,9 +1450,9 @@
     "units": "1",
     "stake_usd": "27.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "24.55",
     "reasoning_summary": "Philadelphia's posted lineup averages just .639 OPS with three sub-.500 OPS bats in the bottom third (Bohm .414, Stott .493, March\u00c3\u00a1n .257) \u00e2\u20ac\u201d essentially three automatic outs against Holmes (career 3.78 ERA over 205 IP, current xERA 3.16). Painter'",
-    "bankroll_after": "453.93"
+    "bankroll_after": "505.48"
   }
 ]
