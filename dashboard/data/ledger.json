@@ -1562,8 +1562,8 @@
     "units": "1",
     "stake_usd": "34.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-34.0",
     "reasoning_summary": "Extreme cold (32\u00c2\u00b0F) at Oracle Park is the dominant signal \u00e2\u20ac\u201d one of MLB's most pitcher-friendly parks combined with weather that significantly suppresses ball flight and exit velocity. Alcantara's career profile (3.62 ERA over 1110 IP, current xERA",
     "bankroll_after": "679.97"
   }
