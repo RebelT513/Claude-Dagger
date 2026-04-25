@@ -1582,5 +1582,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two quality starters with reliable career profiles (P\u00c3\u00a9rez 3.77 ERA / 212 IP; Ray 3.92 ERA / 1469 IP) at Oracle Park in 41\u00c2\u00b0F. Both face same-handed lineups, neutralizing platoon. Giants lineup is genuinely weak (.654 OPS, with Devers .565 and Bailey",
     "bankroll_after": "645.97"
+  },
+  {
+    "date": "2026-04-25",
+    "game": "Seattle Mariners @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-110.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Bryan Woo is a genuinely above-average starter (3.14 career ERA, 0.97 WHIP, prior-year xERA 3.07, current 2.46) facing a .697 OPS Cardinals lineup that is roughly league-average at best. On the other side, Liberatore is a career 4.56 ERA / 1.37 WHIP ",
+    "bankroll_after": "611.97"
   }
 ]
