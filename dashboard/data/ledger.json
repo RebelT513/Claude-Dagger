@@ -1566,5 +1566,21 @@
     "pnl": "-34.0",
     "reasoning_summary": "Extreme cold (32\u00c2\u00b0F) at Oracle Park is the dominant signal \u00e2\u20ac\u201d one of MLB's most pitcher-friendly parks combined with weather that significantly suppresses ball flight and exit velocity. Alcantara's career profile (3.62 ERA over 1110 IP, current xERA",
     "bankroll_after": "679.97"
+  },
+  {
+    "date": "2026-04-25",
+    "game": "Miami Marlins @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-110.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two quality starters with reliable career profiles (P\u00c3\u00a9rez 3.77 ERA / 212 IP; Ray 3.92 ERA / 1469 IP) at Oracle Park in 41\u00c2\u00b0F. Both face same-handed lineups, neutralizing platoon. Giants lineup is genuinely weak (.654 OPS, with Devers .565 and Bailey",
+    "bankroll_after": "645.97"
   }
 ]
