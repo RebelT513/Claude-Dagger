@@ -1630,5 +1630,21 @@
     "pnl": "0.0",
     "reasoning_summary": "McLean is pitching at an elite level (career 2.30 ERA, current xERA 1.95 over a meaningful 114 PA sample, 0.76 WHIP, 11.3 K/9) and gets a Rockies lineup averaging .704 OPS with weak bottom of order. Quintana counters with a horrid current profile \u00e2\u20ac\u201d",
     "bankroll_after": "549.97"
+  },
+  {
+    "date": "2026-04-26",
+    "game": "Colorado Rockies @ New York Mets",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "-105.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "McLean is genuinely elite \u00e2\u20ac\u201d career 2.30 ERA, current 1.95 xERA over 114 PA, K/9 above 11, and a recent 3-start line of 1-2-3 ER \u00e2\u20ac\u201d and he's facing a Mets-side lineup posted at .576 OPS that won't give up many over-side runs against him either. Qui",
+    "bankroll_after": "518.97"
   }
 ]
