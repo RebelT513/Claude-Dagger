@@ -1598,5 +1598,21 @@
     "pnl": "-34.0",
     "reasoning_summary": "Bryan Woo is a genuinely above-average starter (3.14 career ERA, 0.97 WHIP, prior-year xERA 3.07, current 2.46) facing a .697 OPS Cardinals lineup that is roughly league-average at best. On the other side, Liberatore is a career 4.56 ERA / 1.37 WHIP ",
     "bankroll_after": "611.97"
+  },
+  {
+    "date": "2026-04-26",
+    "game": "Athletics @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Athletics",
+    "odds": "103.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Career data favors Ginn (4.68 ERA / 1.31 WHIP over 146 IP) over Rocker (5.03 ERA / 1.44 WHIP over 96 IP, with prior-year xERA 5.73 \u00e2\u20ac\u201d a real red flag), while current-year xERA gaps are noise at ~85 PA each. The Rangers bullpen is heavily taxed with ",
+    "bankroll_after": "580.97"
   }
 ]
