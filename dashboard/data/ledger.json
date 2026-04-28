@@ -1658,9 +1658,9 @@
     "units": "1",
     "stake_usd": "32.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "33.62",
     "reasoning_summary": "Pittsburgh is throwing a bullpen game \u00e2\u20ac\u201d Mason Montgomery's 1.0 IP in his most recent 'start' and his appearance in the taxed-reliever list confirm he's an opener, not a starter. Behind him, PIT's pen is heavily taxed (Mlodzinski 81 pitches and Sand",
-    "bankroll_after": "610.7"
+    "bankroll_after": "676.32"
   }
 ]
