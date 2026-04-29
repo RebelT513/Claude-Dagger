@@ -1694,5 +1694,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are below-average career arms (Sugano career 4.47 ERA / 5.81 prior-year xERA; Williamson career 4.55 ERA with a current 5.8 BB/9 control collapse \u00e2\u20ac\u201d free baserunners turn into runs in a hitter's park). GABP is a known hitter's environm",
     "bankroll_after": "608.32"
+  },
+  {
+    "date": "2026-04-29",
+    "game": "Chicago Cubs @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago Cubs",
+    "odds": "-109.0",
+    "line": "-110.0",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Significant SP mismatch: Taillon's career 3.89 ERA over 1264 IP (prior-year xERA 3.85) versus Waldron's career 5.19 ERA over 201 IP with prior-year xERA of 11.19 \u00e2\u20ac\u201d a knuckleballer who's been hammered (12.46 ERA, two recent starts giving up 6 ER eac",
+    "bankroll_after": "574.32"
   }
 ]
