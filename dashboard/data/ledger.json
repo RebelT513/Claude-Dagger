@@ -1678,5 +1678,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clean SP mismatch with reliable career samples on both sides: Kirby (career 3.55 ERA / 1.11 WHIP over 677 IP, current 2.85 xERA, three quality starts in a row) vs Bradley (career 4.70 ERA / 1.30 WHIP over 419 IP, 3.4 BB/9, current xERA 4.23 confirmin",
     "bankroll_after": "642.32"
+  },
+  {
+    "date": "2026-04-29",
+    "game": "Colorado Rockies @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9.5",
+    "odds": "101.0",
+    "line": "9.5",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are below-average career arms (Sugano career 4.47 ERA / 5.81 prior-year xERA; Williamson career 4.55 ERA with a current 5.8 BB/9 control collapse \u00e2\u20ac\u201d free baserunners turn into runs in a hitter's park). GABP is a known hitter's environm",
+    "bankroll_after": "608.32"
   }
 ]
