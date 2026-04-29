@@ -1726,5 +1726,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters have reliable career data supporting suppression: Rasmussen career 2.87 ERA / 1.05 WHIP over 486 IP with prior-year xERA 3.48; Williams career 3.51 ERA over 361 IP with prior-year xERA 4.30. Weather compounds the case \u00e2\u20ac\u201d 46\u00c2\u00b0F, 9 mph M",
     "bankroll_after": "540.32"
+  },
+  {
+    "date": "2026-04-29",
+    "game": "Arizona Diamondbacks @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Arizona Diamondbacks",
+    "odds": "113.0",
+    "line": "105.0",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "ARI is the dog at +105 despite holding both the SP and lineup edge. Career-data comparison favors Eduardo Rodriguez clearly (4.16 ERA / 1332 IP) over Brandon Sproat (5.65 ERA / 43 IP, current 6.45 with a 7-ER blowup recently); prior-year xERA 4.51 vs",
+    "bankroll_after": "506.32000000000005"
   }
 ]
