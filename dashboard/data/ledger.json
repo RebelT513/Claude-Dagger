@@ -1662,5 +1662,21 @@
     "pnl": "33.62",
     "reasoning_summary": "Pittsburgh is throwing a bullpen game \u00e2\u20ac\u201d Mason Montgomery's 1.0 IP in his most recent 'start' and his appearance in the taxed-reliever list confirm he's an opener, not a starter. Behind him, PIT's pen is heavily taxed (Mlodzinski 81 pitches and Sand",
     "bankroll_after": "676.32"
+  },
+  {
+    "date": "2026-04-29",
+    "game": "Seattle Mariners @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Seattle Mariners",
+    "odds": "-133.0",
+    "line": "-125.0",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clean SP mismatch with reliable career samples on both sides: Kirby (career 3.55 ERA / 1.11 WHIP over 677 IP, current 2.85 xERA, three quality starts in a row) vs Bradley (career 4.70 ERA / 1.30 WHIP over 419 IP, 3.4 BB/9, current xERA 4.23 confirmin",
+    "bankroll_after": "642.32"
   }
 ]
