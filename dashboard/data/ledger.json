@@ -1742,5 +1742,21 @@
     "pnl": "38.59",
     "reasoning_summary": "ARI is the dog at +105 despite holding both the SP and lineup edge. Career-data comparison favors Eduardo Rodriguez clearly (4.16 ERA / 1332 IP) over Brandon Sproat (5.65 ERA / 43 IP, current 6.45 with a 7-ER blowup recently); prior-year xERA 4.51 vs",
     "bankroll_after": "778.63"
+  },
+  {
+    "date": "2026-04-30",
+    "game": "San Francisco Giants @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "-108.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two career-strong RHPs (S\u00c3\u00a1nchez career 3.22 ERA / 3.02 prior xERA, Webb career 3.43 ERA / 3.58 prior xERA \u00e2\u20ac\u201d current-year ERAs/xERAs are sub-40 IP noise) facing two notably weak lineups (Giants .654 OPS with Devers .548, Adames .610, Encarnacion .5",
+    "bankroll_after": "739.63"
   }
 ]
