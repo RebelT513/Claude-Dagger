@@ -1738,9 +1738,9 @@
     "units": "1",
     "stake_usd": "34.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "38.59",
     "reasoning_summary": "ARI is the dog at +105 despite holding both the SP and lineup edge. Career-data comparison favors Eduardo Rodriguez clearly (4.16 ERA / 1332 IP) over Brandon Sproat (5.65 ERA / 43 IP, current 6.45 with a 7-ER blowup recently); prior-year xERA 4.51 vs",
-    "bankroll_after": "706.04"
+    "bankroll_after": "778.63"
   }
 ]
