@@ -1754,9 +1754,9 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "36.44",
     "reasoning_summary": "Two career-strong RHPs (S\u00c3\u00a1nchez career 3.22 ERA / 3.02 prior xERA, Webb career 3.43 ERA / 3.58 prior xERA \u00e2\u20ac\u201d current-year ERAs/xERAs are sub-40 IP noise) facing two notably weak lineups (Giants .654 OPS with Devers .548, Adames .610, Encarnacion .5",
-    "bankroll_after": "739.63"
+    "bankroll_after": "815.07"
   }
 ]
