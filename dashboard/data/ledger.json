@@ -1758,5 +1758,21 @@
     "pnl": "36.44",
     "reasoning_summary": "Two career-strong RHPs (S\u00c3\u00a1nchez career 3.22 ERA / 3.02 prior xERA, Webb career 3.43 ERA / 3.58 prior xERA \u00e2\u20ac\u201d current-year ERAs/xERAs are sub-40 IP noise) facing two notably weak lineups (Giants .654 OPS with Devers .548, Adames .610, Encarnacion .5",
     "bankroll_after": "815.07"
+  },
+  {
+    "date": "2026-05-02",
+    "game": "Cincinnati Reds @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cincinnati Reds",
+    "odds": "116.0",
+    "line": "114.0",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Lowder vs Mlodzinski looks closer to a coin flip than the -133/+114 line implies. xERA is identical (4.08 each), but Lowder has the cleaner recent form (2/1/3 ER over his last three starts vs Mlodzinski's 4/5 ER in two of his last three) and a meanin",
+    "bankroll_after": "774.07"
   }
 ]
