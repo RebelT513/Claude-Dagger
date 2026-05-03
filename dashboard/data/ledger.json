@@ -1834,8 +1834,8 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-41.0",
     "reasoning_summary": "Clear SP edge: Messick (career 2.25/1.11 over 76 IP, prior-year xERA 3.07, current xERA 2.69, 2 of last 3 quality starts) is meaningfully better than Civale (career 4.11/1.21 over 769 IP, prior-year xERA 4.10, current xERA 4.58, 5ER start three outin",
     "bankroll_after": "699.51"
   }
