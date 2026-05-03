@@ -1786,9 +1786,9 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "48.44",
     "reasoning_summary": "Lugo holds a clear career-data SP edge (3.46 ERA over 1030 IP vs Hancock's 4.47 ERA over 197 IP); current-year stats for both are too small to outweigh those career profiles. The line drifted against the home favorite (-145 \u00e2\u2020\u2019 -125) which usually re",
-    "bankroll_after": "735.07"
+    "bankroll_after": "822.51"
   }
 ]
