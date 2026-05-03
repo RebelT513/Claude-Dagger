@@ -1790,5 +1790,21 @@
     "pnl": "48.44",
     "reasoning_summary": "Lugo holds a clear career-data SP edge (3.46 ERA over 1030 IP vs Hancock's 4.47 ERA over 197 IP); current-year stats for both are too small to outweigh those career profiles. The line drifted against the home favorite (-145 \u00e2\u2020\u2019 -125) which usually re",
     "bankroll_after": "822.51"
+  },
+  {
+    "date": "2026-05-03",
+    "game": "Houston Astros @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-120.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Cody Bolton is a fringe MLB arm \u00e2\u20ac\u201d career 5.79 ERA / 1.79 WHIP / 5.6 BB/9 over 51 IP, prior-year xERA 6.43, and a current 7.7 BB/9 over 9.1 IP. Even Boston's weak .674-OPS lineup should walk into runs against him; Contreras (.846) and Abreu (.849) a",
+    "bankroll_after": "781.51"
   }
 ]
