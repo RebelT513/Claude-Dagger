@@ -1774,5 +1774,21 @@
     "pnl": "-41.0",
     "reasoning_summary": "Lowder vs Mlodzinski looks closer to a coin flip than the -133/+114 line implies. xERA is identical (4.08 each), but Lowder has the cleaner recent form (2/1/3 ER over his last three starts vs Mlodzinski's 4/5 ER in two of his last three) and a meanin",
     "bankroll_after": "774.07"
+  },
+  {
+    "date": "2026-05-02",
+    "game": "Kansas City Royals @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Kansas City Royals",
+    "odds": "124.0",
+    "line": "124.0",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Lugo holds a clear career-data SP edge (3.46 ERA over 1030 IP vs Hancock's 4.47 ERA over 197 IP); current-year stats for both are too small to outweigh those career profiles. The line drifted against the home favorite (-145 \u00e2\u2020\u2019 -125) which usually re",
+    "bankroll_after": "735.07"
   }
 ]
