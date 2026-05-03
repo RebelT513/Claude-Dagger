@@ -1822,5 +1822,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Significant SP mismatch: Anthony Kay has a career 5.71 ERA / 1.62 WHIP over 110 IP with 5.0 BB/9 and a 8.18 current xERA \u00e2\u20ac\u201d career data confirms he is genuinely below-average, not small-sample noise. Griffin Canning (584 career IP, 4.65 ERA, 4.70 pr",
     "bankroll_after": "740.51"
+  },
+  {
+    "date": "2026-05-03",
+    "game": "Cleveland Guardians @ Athletics",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "-126.0",
+    "line": "-126.0",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP edge: Messick (career 2.25/1.11 over 76 IP, prior-year xERA 3.07, current xERA 2.69, 2 of last 3 quality starts) is meaningfully better than Civale (career 4.11/1.21 over 769 IP, prior-year xERA 4.10, current xERA 4.58, 5ER start three outin",
+    "bankroll_after": "699.51"
   }
 ]
