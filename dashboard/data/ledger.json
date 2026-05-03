@@ -1802,8 +1802,8 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-41.0",
     "reasoning_summary": "Cody Bolton is a fringe MLB arm \u00e2\u20ac\u201d career 5.79 ERA / 1.79 WHIP / 5.6 BB/9 over 51 IP, prior-year xERA 6.43, and a current 7.7 BB/9 over 9.1 IP. Even Boston's weak .674-OPS lineup should walk into runs against him; Contreras (.846) and Abreu (.849) a",
     "bankroll_after": "781.51"
   },
