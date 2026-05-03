@@ -1806,5 +1806,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Cody Bolton is a fringe MLB arm \u00e2\u20ac\u201d career 5.79 ERA / 1.79 WHIP / 5.6 BB/9 over 51 IP, prior-year xERA 6.43, and a current 7.7 BB/9 over 9.1 IP. Even Boston's weak .674-OPS lineup should walk into runs against him; Contreras (.846) and Abreu (.849) a",
     "bankroll_after": "781.51"
+  },
+  {
+    "date": "2026-05-03",
+    "game": "Chicago White Sox @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "San Diego Padres -1.5",
+    "odds": "124.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Significant SP mismatch: Anthony Kay has a career 5.71 ERA / 1.62 WHIP over 110 IP with 5.0 BB/9 and a 8.18 current xERA \u00e2\u20ac\u201d career data confirms he is genuinely below-average, not small-sample noise. Griffin Canning (584 career IP, 4.65 ERA, 4.70 pr",
+    "bankroll_after": "740.51"
   }
 ]
