@@ -1838,5 +1838,21 @@
     "pnl": "-41.0",
     "reasoning_summary": "Clear SP edge: Messick (career 2.25/1.11 over 76 IP, prior-year xERA 3.07, current xERA 2.69, 2 of last 3 quality starts) is meaningfully better than Civale (career 4.11/1.21 over 769 IP, prior-year xERA 4.10, current xERA 4.58, 5ER start three outin",
     "bankroll_after": "699.51"
+  },
+  {
+    "date": "2026-05-04",
+    "game": "Los Angeles Dodgers @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Los Angeles Dodgers -1.5",
+    "odds": "-125.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Massive SP/bullpen mismatch: Yamamoto (career 2.69 ERA / prior-yr xERA 2.74 / this yr 2.87) versus what looks like an Astros bullpen game \u00e2\u20ac\u201d Steven Okert is a career reliever profile (9.9 K/9 over 316 IP, only 15 IP this season) and the Astros pen i",
+    "bankroll_after": "664.51"
   }
 ]
