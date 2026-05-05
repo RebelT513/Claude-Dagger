@@ -1854,5 +1854,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Massive SP/bullpen mismatch: Yamamoto (career 2.69 ERA / prior-yr xERA 2.74 / this yr 2.87) versus what looks like an Astros bullpen game \u00e2\u20ac\u201d Steven Okert is a career reliever profile (9.9 K/9 over 316 IP, only 15 IP this season) and the Astros pen i",
     "bankroll_after": "664.51"
+  },
+  {
+    "date": "2026-05-04",
+    "game": "San Diego Padres @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-110.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "35\u00c2\u00b0F at Oracle Park is an extreme cold-weather under setup at an already pitcher-friendly venue. Both lineups are weak \u00e2\u20ac\u201d SDP averages .672 OPS with a sub-.500 OPS bottom of the order (Fermin .537, Cronenworth .470), and SFG averages .703 with two ",
+    "bankroll_after": "629.51"
   }
 ]
