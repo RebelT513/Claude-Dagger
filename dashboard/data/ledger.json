@@ -1870,5 +1870,21 @@
     "pnl": "31.83",
     "reasoning_summary": "35\u00c2\u00b0F at Oracle Park is an extreme cold-weather under setup at an already pitcher-friendly venue. Both lineups are weak \u00e2\u20ac\u201d SDP averages .672 OPS with a sub-.500 OPS bottom of the order (Fermin .537, Cronenworth .470), and SFG averages .703 with two ",
     "bankroll_after": "759.43"
+  },
+  {
+    "date": "2026-05-05",
+    "game": "Athletics @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-107.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "STRONG_OUT wind classification at Citizens Bank Park \u00e2\u20ac\u201d 18 mph from 210\u00c2\u00b0 producing a +13.8 mph tailwind to CF at an already hitter-friendly venue. S\u00c3\u00a1nchez's 2.90 ERA masks a 1.51 WHIP (heavy traffic that often costs you with a wind like this); Sev",
+    "bankroll_after": "721.43"
   }
 ]
