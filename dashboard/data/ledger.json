@@ -1886,5 +1886,21 @@
     "pnl": "0.0",
     "reasoning_summary": "STRONG_OUT wind classification at Citizens Bank Park \u00e2\u20ac\u201d 18 mph from 210\u00c2\u00b0 producing a +13.8 mph tailwind to CF at an already hitter-friendly venue. S\u00c3\u00a1nchez's 2.90 ERA masks a 1.51 WHIP (heavy traffic that often costs you with a wind like this); Sev",
     "bankroll_after": "721.43"
+  },
+  {
+    "date": "2026-05-05",
+    "game": "Cleveland Guardians @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-110.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Cold (54\u00c2\u00b0F) plus STRONG_IN wind at Kauffman is a meaningful run-suppressor, and the line already moved 8.0 \u00e2\u2020\u2019 7.5 indicating sharp under interest. Williams is a real signal (career 3.44 ERA / 11.0 K/9 over 369 IP, two dominant recent starts) rather",
+    "bankroll_after": "683.43"
   }
 ]
