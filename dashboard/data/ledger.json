@@ -1918,5 +1918,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Strong weather environment for under: 49\u00c2\u00b0F game-time temp plus MODERATE wind blowing in toward the plate at Busch \u00e2\u20ac\u201d both run-suppressing. Pallante is a reliable contact pitcher with 491 career IP at a 4.29 ERA / 4.30 prior-year xERA, exactly the p",
     "bankroll_after": "645.43"
+  },
+  {
+    "date": "2026-05-05",
+    "game": "Texas Rangers @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "113.0",
+    "line": "113.0",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Massive starting pitcher mismatch: deGrom (career 2.56 ERA / 0.99 WHIP over 1571 IP, current 2.01 ERA, xERA 3.20, dominated this same NYY lineup 6 IP/1 ER on 4/28) versus Rodr\u00c3\u00adguez (4 career IP, 9.0 BB/9, 6.22 xERA). Texas at +108 implies 48% but wi",
+    "bankroll_after": "607.43"
   }
 ]
