@@ -1866,9 +1866,9 @@
     "units": "1",
     "stake_usd": "35.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "31.83",
     "reasoning_summary": "35\u00c2\u00b0F at Oracle Park is an extreme cold-weather under setup at an already pitcher-friendly venue. Both lineups are weak \u00e2\u20ac\u201d SDP averages .672 OPS with a sub-.500 OPS bottom of the order (Fermin .537, Cronenworth .470), and SFG averages .703 with two ",
-    "bankroll_after": "692.6"
+    "bankroll_after": "759.43"
   }
 ]
