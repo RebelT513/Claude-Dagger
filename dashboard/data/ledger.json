@@ -1902,5 +1902,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Cold (54\u00c2\u00b0F) plus STRONG_IN wind at Kauffman is a meaningful run-suppressor, and the line already moved 8.0 \u00e2\u2020\u2019 7.5 indicating sharp under interest. Williams is a real signal (career 3.44 ERA / 11.0 K/9 over 369 IP, two dominant recent starts) rather",
     "bankroll_after": "683.43"
+  },
+  {
+    "date": "2026-05-05",
+    "game": "Milwaukee Brewers @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-103.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong weather environment for under: 49\u00c2\u00b0F game-time temp plus MODERATE wind blowing in toward the plate at Busch \u00e2\u20ac\u201d both run-suppressing. Pallante is a reliable contact pitcher with 491 career IP at a 4.29 ERA / 4.30 prior-year xERA, exactly the p",
+    "bankroll_after": "645.43"
   }
 ]
