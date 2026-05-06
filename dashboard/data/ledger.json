@@ -1978,9 +1978,9 @@
     "units": "1",
     "stake_usd": "36.0",
     "confidence_score": "56",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch in the 1H window: Rodriguez (career 1.48 ERA across 24 IP, prior-year xERA 2.29, current xERA 2.17, xwOBA .236) versus Houser, a 764-IP veteran with a career 4.18 ERA who is in obvious decline \u00e2\u20ac\u201d current 7.12 ERA, 5.96 xERA, and re",
-    "bankroll_after": "611.25"
+    "bankroll_after": "647.25"
   }
 ]
