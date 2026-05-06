@@ -1950,5 +1950,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Career-vs-career, Eovaldi (1742 IP, 3.91 ERA, prior xERA 3.00) is meaningfully better than Warren (222 IP, 4.69 career ERA, prior xERA 4.58). Warren's 2.39 ERA is partially small-sample shine \u00e2\u20ac\u201d his 3.38 current xERA already shows regression baked i",
     "bankroll_after": "683.25"
+  },
+  {
+    "date": "2026-05-06",
+    "game": "New York Mets @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u9.5",
+    "odds": "-112.0",
+    "line": "9.5",
+    "units": "1",
+    "stake_usd": "36.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Coors Field with 36\u00c2\u00b0F and heavy snow is a dramatic suppressor \u00e2\u20ac\u201d cold air plus precipitation kills ball flight and substantially neutralizes the altitude factor that anchors Coors totals. Peralta is a legitimate quality SP (career 3.58 ERA, 11.1 K/",
+    "bankroll_after": "647.25"
   }
 ]
