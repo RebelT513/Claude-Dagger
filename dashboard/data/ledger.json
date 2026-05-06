@@ -1934,5 +1934,21 @@
     "pnl": "-38.0",
     "reasoning_summary": "Massive starting pitcher mismatch: deGrom (career 2.56 ERA / 0.99 WHIP over 1571 IP, current 2.01 ERA, xERA 3.20, dominated this same NYY lineup 6 IP/1 ER on 4/28) versus Rodr\u00c3\u00adguez (4 career IP, 9.0 BB/9, 6.22 xERA). Texas at +108 implies 48% but wi",
     "bankroll_after": "719.25"
+  },
+  {
+    "date": "2026-05-06",
+    "game": "Texas Rangers @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "174.0",
+    "line": "170.0",
+    "units": "1",
+    "stake_usd": "36.0",
+    "confidence_score": "42",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Career-vs-career, Eovaldi (1742 IP, 3.91 ERA, prior xERA 3.00) is meaningfully better than Warren (222 IP, 4.69 career ERA, prior xERA 4.58). Warren's 2.39 ERA is partially small-sample shine \u00e2\u20ac\u201d his 3.38 current xERA already shows regression baked i",
+    "bankroll_after": "683.25"
   }
 ]
