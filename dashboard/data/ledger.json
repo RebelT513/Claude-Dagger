@@ -1962,8 +1962,8 @@
     "units": "1",
     "stake_usd": "36.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-36.0",
     "reasoning_summary": "Coors Field with 36\u00c2\u00b0F and heavy snow is a dramatic suppressor \u00e2\u20ac\u201d cold air plus precipitation kills ball flight and substantially neutralizes the altitude factor that anchors Coors totals. Peralta is a legitimate quality SP (career 3.58 ERA, 11.1 K/",
     "bankroll_after": "746.09"
   },
