@@ -1982,5 +1982,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch in the 1H window: Rodriguez (career 1.48 ERA across 24 IP, prior-year xERA 2.29, current xERA 2.17, xwOBA .236) versus Houser, a 764-IP veteran with a career 4.18 ERA who is in obvious decline \u00e2\u20ac\u201d current 7.12 ERA, 5.96 xERA, and re",
     "bankroll_after": "746.09"
+  },
+  {
+    "date": "2026-05-07",
+    "game": "Cleveland Guardians @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9.5",
+    "odds": "-108.0",
+    "line": "9.5",
+    "units": "1",
+    "stake_usd": "37.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong tailwind to CF (16.6 mph, classified STRONG_OUT) at an open park is a meaningful run-environment shift, and the line has already moved up from 9.0 to 9.5 confirming sharp money on runs. Cecconi is genuinely poor by both surface and contact met",
+    "bankroll_after": "709.09"
   }
 ]
