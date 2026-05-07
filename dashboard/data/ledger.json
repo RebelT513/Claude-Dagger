@@ -1994,9 +1994,9 @@
     "units": "1",
     "stake_usd": "37.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "34.57",
     "reasoning_summary": "Strong tailwind to CF (16.6 mph, classified STRONG_OUT) at an open park is a meaningful run-environment shift, and the line has already moved up from 9.0 to 9.5 confirming sharp money on runs. Cecconi is genuinely poor by both surface and contact met",
-    "bankroll_after": "709.09"
+    "bankroll_after": "780.66"
   }
 ]
