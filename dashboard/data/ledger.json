@@ -1998,5 +1998,21 @@
     "pnl": "34.57",
     "reasoning_summary": "Strong tailwind to CF (16.6 mph, classified STRONG_OUT) at an open park is a meaningful run-environment shift, and the line has already moved up from 9.0 to 9.5 confirming sharp money on runs. Cecconi is genuinely poor by both surface and contact met",
     "bankroll_after": "780.66"
+  },
+  {
+    "date": "2026-05-08",
+    "game": "New York Mets @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "-126.0",
+    "line": "-130.0",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Genuine SP mismatch: McLean carries a 2.47 career ERA over 87 IP with strong xERA support (prior-year 3.53, current 2.32 in 153 PA) and 11+ K/9 stuff, while Nelson is a career back-end starter (4.33 ERA) currently in free fall \u00e2\u20ac\u201d 6.61 ERA, 5.78 xERA",
+    "bankroll_after": "741.66"
   }
 ]
