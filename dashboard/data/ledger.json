@@ -2030,5 +2030,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting pitcher mismatch on the dog price. Sale brings career 2.99 ERA over 2126 IP with a current 2.14 ERA / 2.85 xERA and elite .270 xwOBA \u00e2\u20ac\u201d that holds against any lineup, even an LAD group with Ohtani/Betts/Freeman. Sheehan counters with ",
     "bankroll_after": "702.66"
+  },
+  {
+    "date": "2026-05-08",
+    "game": "Chicago Cubs @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago Cubs",
+    "odds": "-126.0",
+    "line": "-136.0",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch backed by contact quality, not just ERA: Brown's current xERA 2.79 / xwOBA .267 over 101 PA is real signal at this point in the season, and his prior-year xERA 4.55 is reasonable for a back-end starter \u00e2\u20ac\u201d Rocker has career 5.25 ERA",
+    "bankroll_after": "663.66"
   }
 ]
