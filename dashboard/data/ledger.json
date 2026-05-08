@@ -2046,5 +2046,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch backed by contact quality, not just ERA: Brown's current xERA 2.79 / xwOBA .267 over 101 PA is real signal at this point in the season, and his prior-year xERA 4.55 is reasonable for a back-end starter \u00e2\u20ac\u201d Rocker has career 5.25 ERA",
     "bankroll_after": "663.66"
+  },
+  {
+    "date": "2026-05-08",
+    "game": "Athletics @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Athletics",
+    "odds": "120.0",
+    "line": "110.0",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "A's lineup (.791 OPS) is materially stronger than Baltimore's (.713), and Bradish's current-year xERA of 5.11 over 157 PA is becoming a meaningful sample that diverges from his career 3.61 ERA \u00e2\u20ac\u201d he's allowing real contact quality this year. The Ori",
+    "bankroll_after": "624.66"
   }
 ]
