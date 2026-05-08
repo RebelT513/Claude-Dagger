@@ -2014,5 +2014,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Genuine SP mismatch: McLean carries a 2.47 career ERA over 87 IP with strong xERA support (prior-year 3.53, current 2.32 in 153 PA) and 11+ K/9 stuff, while Nelson is a career back-end starter (4.33 ERA) currently in free fall \u00e2\u20ac\u201d 6.61 ERA, 5.78 xERA",
     "bankroll_after": "741.66"
+  },
+  {
+    "date": "2026-05-08",
+    "game": "Atlanta Braves @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Atlanta Braves",
+    "odds": "104.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting pitcher mismatch on the dog price. Sale brings career 2.99 ERA over 2126 IP with a current 2.14 ERA / 2.85 xERA and elite .270 xwOBA \u00e2\u20ac\u201d that holds against any lineup, even an LAD group with Ohtani/Betts/Freeman. Sheehan counters with ",
+    "bankroll_after": "702.66"
   }
 ]
