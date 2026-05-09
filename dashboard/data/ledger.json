@@ -2062,5 +2062,21 @@
     "pnl": "46.83",
     "reasoning_summary": "A's lineup (.791 OPS) is materially stronger than Baltimore's (.713), and Bradish's current-year xERA of 5.11 over 157 PA is becoming a meaningful sample that diverges from his career 3.61 ERA \u00e2\u20ac\u201d he's allowing real contact quality this year. The Ori",
     "bankroll_after": "850.79"
+  },
+  {
+    "date": "2026-05-09",
+    "game": "Colorado Rockies @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-107.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project as hittable: Freeland's career 4.55 ERA / 4.60 xERA is below-average, and Nola's career 3.86 ERA masks a 4.13\u00e2\u20ac\u201c4.42 xERA range with two of his last three starts giving up 5\u00e2\u20ac\u201c6 ER. Both bullpens are heavily taxed (PHI has 7 rel",
+    "bankroll_after": "807.79"
   }
 ]
