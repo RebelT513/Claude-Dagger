@@ -2042,10 +2042,10 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "31.15",
     "reasoning_summary": "Clear SP mismatch backed by contact quality, not just ERA: Brown's current xERA 2.79 / xwOBA .267 over 101 PA is real signal at this point in the season, and his prior-year xERA 4.55 is reasonable for a back-end starter \u00e2\u20ac\u201d Rocker has career 5.25 ERA",
-    "bankroll_after": "663.66"
+    "bankroll_after": "733.81"
   },
   {
     "date": "2026-05-08",
@@ -2061,6 +2061,6 @@
     "result": "win",
     "pnl": "46.83",
     "reasoning_summary": "A's lineup (.791 OPS) is materially stronger than Baltimore's (.713), and Bradish's current-year xERA of 5.11 over 157 PA is becoming a meaningful sample that diverges from his career 3.61 ERA \u00e2\u20ac\u201d he's allowing real contact quality this year. The Ori",
-    "bankroll_after": "710.49"
+    "bankroll_after": "780.64"
   }
 ]
