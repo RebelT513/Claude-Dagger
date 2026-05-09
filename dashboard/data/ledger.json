@@ -2078,5 +2078,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters project as hittable: Freeland's career 4.55 ERA / 4.60 xERA is below-average, and Nola's career 3.86 ERA masks a 4.13\u00e2\u20ac\u201c4.42 xERA range with two of his last three starts giving up 5\u00e2\u20ac\u201c6 ER. Both bullpens are heavily taxed (PHI has 7 rel",
     "bankroll_after": "807.79"
+  },
+  {
+    "date": "2026-05-09",
+    "game": "Pittsburgh Pirates @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-108.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters have current-year xERA of 2.64 with reliable career samples (Ashcraft 111 career IP at 2.83 ERA, Roupp 196 IP) \u00e2\u20ac\u201d this is a legitimate two-good-SP setup, not a one-side mismatch. Oracle Park is one of the most run-suppressive parks in ",
+    "bankroll_after": "764.79"
   }
 ]
