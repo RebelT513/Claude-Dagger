@@ -2110,5 +2110,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are pitching well with supportive contact-quality data \u00e2\u20ac\u201d Tolle's current xERA is 2.04 with 11.7 K/9 in 17.2 IP and Martinez has a career 4.05 ERA / prior-year xERA 4.04 backed by three strong recent starts (1ER/0ER/1ER). Both lineups ",
     "bankroll_after": "807.79"
+  },
+  {
+    "date": "2026-05-09",
+    "game": "St. Louis Cardinals @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "122.0",
+    "line": "116.0",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Career and xERA profiles favor May (career 3.99 ERA/360 IP, xERA 4.19) over V\u00c3\u00a1squez (career 3.97 ERA but current xERA 4.54 indicates his 3.20 ERA is luck-driven \u00e2\u20ac\u201d recent starts of 3 ER and 5 ER support regression). Cardinals lineup (.725 avg OPS, ",
+    "bankroll_after": "721.79"
   }
 ]
