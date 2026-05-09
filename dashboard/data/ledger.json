@@ -2094,5 +2094,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters have current-year xERA of 2.64 with reliable career samples (Ashcraft 111 career IP at 2.83 ERA, Roupp 196 IP) \u00e2\u20ac\u201d this is a legitimate two-good-SP setup, not a one-side mismatch. Oracle Park is one of the most run-suppressive parks in ",
     "bankroll_after": "764.79"
+  },
+  {
+    "date": "2026-05-09",
+    "game": "Tampa Bay Rays @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-102.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are pitching well with supportive contact-quality data \u00e2\u20ac\u201d Tolle's current xERA is 2.04 with 11.7 K/9 in 17.2 IP and Martinez has a career 4.05 ERA / prior-year xERA 4.04 backed by three strong recent starts (1ER/0ER/1ER). Both lineups ",
+    "bankroll_after": "721.79"
   }
 ]
