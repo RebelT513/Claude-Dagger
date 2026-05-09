@@ -2058,9 +2058,9 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "46.83",
     "reasoning_summary": "A's lineup (.791 OPS) is materially stronger than Baltimore's (.713), and Bradish's current-year xERA of 5.11 over 157 PA is becoming a meaningful sample that diverges from his career 3.61 ERA \u00e2\u20ac\u201d he's allowing real contact quality this year. The Ori",
-    "bankroll_after": "624.66"
+    "bankroll_after": "710.49"
   }
 ]
