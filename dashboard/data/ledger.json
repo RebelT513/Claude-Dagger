@@ -2158,5 +2158,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Oracle Park is one of the most run-suppressing venues in MLB, and tonight pairs it with 47\u00c2\u00b0F temperatures and patchy rain \u00e2\u20ac\u201d a textbook weather-driven under setup that has been the cleanest totals angle in recent weeks. Both lineups are mediocre (P",
     "bankroll_after": "725.33"
+  },
+  {
+    "date": "2026-05-10",
+    "game": "New York Mets @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Arizona Diamondbacks",
+    "odds": "-109.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Mets are running a bullpen day \u00e2\u20ac\u201d Brazob\u00c3\u00a1n is a career reliever (223 IP, 9.2 K/9, 4.4 BB/9) and his last outing was 1.0 IP, so this is an opener game with a taxed pen behind him (Warren and Kimbrel both 2 apps in last 3 days). Compounding that, the",
+    "bankroll_after": "685.33"
   }
 ]
