@@ -2138,8 +2138,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Fenway with a strong 11.7 mph tailwind to CF at 67\u00c2\u00b0F is a classic over setup \u00e2\u20ac\u201d mandatory wind signal toward over. Both starters have shaky career underlying numbers despite glossy current ERAs: Martinez is a 4.05 career ERA / 4.04 prior-year xERA ",
     "bankroll_after": "765.33"
   },
