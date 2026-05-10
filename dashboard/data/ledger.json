@@ -2122,8 +2122,8 @@
     "units": "1",
     "stake_usd": "43.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-43.0",
     "reasoning_summary": "Career and xERA profiles favor May (career 3.99 ERA/360 IP, xERA 4.19) over V\u00c3\u00a1squez (career 3.97 ERA but current xERA 4.54 indicates his 3.20 ERA is luck-driven \u00e2\u20ac\u201d recent starts of 3 ER and 5 ER support regression). Cardinals lineup (.725 avg OPS, ",
     "bankroll_after": "805.33"
   }
