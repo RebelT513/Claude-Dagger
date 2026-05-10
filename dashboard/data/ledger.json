@@ -2126,5 +2126,21 @@
     "pnl": "-43.0",
     "reasoning_summary": "Career and xERA profiles favor May (career 3.99 ERA/360 IP, xERA 4.19) over V\u00c3\u00a1squez (career 3.97 ERA but current xERA 4.54 indicates his 3.20 ERA is luck-driven \u00e2\u20ac\u201d recent starts of 3 ER and 5 ER support regression). Cardinals lineup (.725 avg OPS, ",
     "bankroll_after": "805.33"
+  },
+  {
+    "date": "2026-05-10",
+    "game": "Tampa Bay Rays @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8",
+    "odds": "-115.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Fenway with a strong 11.7 mph tailwind to CF at 67\u00c2\u00b0F is a classic over setup \u00e2\u20ac\u201d mandatory wind signal toward over. Both starters have shaky career underlying numbers despite glossy current ERAs: Martinez is a 4.05 career ERA / 4.04 prior-year xERA ",
+    "bankroll_after": "765.33"
   }
 ]
