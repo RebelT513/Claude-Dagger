@@ -2090,8 +2090,8 @@
     "units": "1",
     "stake_usd": "43.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-43.0",
     "reasoning_summary": "Both starters have current-year xERA of 2.64 with reliable career samples (Ashcraft 111 career IP at 2.83 ERA, Roupp 196 IP) \u00e2\u20ac\u201d this is a legitimate two-good-SP setup, not a one-side mismatch. Oracle Park is one of the most run-suppressive parks in ",
     "bankroll_after": "848.33"
   },
