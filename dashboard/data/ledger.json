@@ -2170,9 +2170,9 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "36.77",
     "reasoning_summary": "Mets are running a bullpen day \u00e2\u20ac\u201d Brazob\u00c3\u00a1n is a career reliever (223 IP, 9.2 K/9, 4.4 BB/9) and his last outing was 1.0 IP, so this is an opener game with a taxed pen behind him (Warren and Kimbrel both 2 apps in last 3 days). Compounding that, the",
-    "bankroll_after": "685.33"
+    "bankroll_after": "762.1"
   }
 ]
