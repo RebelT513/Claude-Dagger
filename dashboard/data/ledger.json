@@ -2142,5 +2142,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Fenway with a strong 11.7 mph tailwind to CF at 67\u00c2\u00b0F is a classic over setup \u00e2\u20ac\u201d mandatory wind signal toward over. Both starters have shaky career underlying numbers despite glossy current ERAs: Martinez is a 4.05 career ERA / 4.04 prior-year xERA ",
     "bankroll_after": "765.33"
+  },
+  {
+    "date": "2026-05-10",
+    "game": "Pittsburgh Pirates @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-101.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Oracle Park is one of the most run-suppressing venues in MLB, and tonight pairs it with 47\u00c2\u00b0F temperatures and patchy rain \u00e2\u20ac\u201d a textbook weather-driven under setup that has been the cleanest totals angle in recent weeks. Both lineups are mediocre (P",
+    "bankroll_after": "725.33"
   }
 ]
