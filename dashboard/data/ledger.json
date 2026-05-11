@@ -2154,8 +2154,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Oracle Park is one of the most run-suppressing venues in MLB, and tonight pairs it with 47\u00c2\u00b0F temperatures and patchy rain \u00e2\u20ac\u201d a textbook weather-driven under setup that has been the cleanest totals angle in recent weeks. Both lineups are mediocre (P",
     "bankroll_after": "725.33"
   },
