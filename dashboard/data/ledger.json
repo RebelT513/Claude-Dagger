@@ -2174,5 +2174,21 @@
     "pnl": "36.77",
     "reasoning_summary": "Mets are running a bullpen day \u00e2\u20ac\u201d Brazob\u00c3\u00a1n is a career reliever (223 IP, 9.2 K/9, 4.4 BB/9) and his last outing was 1.0 IP, so this is an opener game with a taxed pen behind him (Warren and Kimbrel both 2 apps in last 3 days). Compounding that, the",
     "bankroll_after": "762.1"
+  },
+  {
+    "date": "2026-05-12",
+    "game": "Colorado Rockies @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-108.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Skenes (career 2.01 ERA, 1.96 xERA, 0.71 WHIP this season, 0/3/0 ER in last 3) projects to suppress Colorado to 1-2 runs across 7+ IP \u00e2\u20ac\u201d the away side of this total is anchored low by an elite SP regardless of lineup. The over therefore needs Pittsb",
+    "bankroll_after": "724.1"
   }
 ]
