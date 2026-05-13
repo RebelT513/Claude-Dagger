@@ -2238,5 +2238,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Substantial SP mismatch in a dome (weather neutral). Cease has been elite this year \u00e2\u20ac\u201d career 3.83 ERA over 1060 IP, current 2.58 ERA / 2.94 xERA (191 PA, well-backed) with 13.1 K/9, and his last three starts span 19.2 IP with strong K rates. Jax's ",
     "bankroll_after": "677.6"
+  },
+  {
+    "date": "2026-05-13",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Toronto Blue Jays -1.5",
+    "odds": "153.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Severe SP mismatch: Cease (career 3.83 ERA/11.0 K/9 over 1060 IP, current xERA 2.94 over 191 PA \u00e2\u20ac\u201d meaningful sample) vs Jax who has career bullpen profile, walking 5.0/9 currently and going only 2.1-4.0 IP last three starts. TB bullpen is heavily t",
+    "bankroll_after": "637.6"
   }
 ]
