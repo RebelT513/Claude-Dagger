@@ -2206,5 +2206,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Painter has been one of the worst SPs in baseball \u00e2\u20ac\u201d 6.89 ERA / 5.00 xERA in his only MLB sample, with 16 ER over his last 14.1 IP including an 8-ER outing on 5/7. Fenway has a STRONG_OUT tailwind (+11.9 mph to CF) that compounds his contact-quality",
     "bankroll_after": "757.6"
+  },
+  {
+    "date": "2026-05-13",
+    "game": "Arizona Diamondbacks @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Arizona Diamondbacks",
+    "odds": "106.0",
+    "line": "103.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Nelson is meaningfully the better starter by the reliable signals: career 4.30 ERA / 1.23 WHIP over 505 IP and prior-year xERA 3.93 vs Rocker's career 5.32 ERA / 1.49 WHIP in only 108 IP and prior-year xERA 5.73. Current-year xERAs (5.07 vs 5.20) are",
+    "bankroll_after": "717.6"
   }
 ]
