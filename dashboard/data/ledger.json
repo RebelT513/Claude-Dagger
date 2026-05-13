@@ -2222,5 +2222,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Nelson is meaningfully the better starter by the reliable signals: career 4.30 ERA / 1.23 WHIP over 505 IP and prior-year xERA 3.93 vs Rocker's career 5.32 ERA / 1.49 WHIP in only 108 IP and prior-year xERA 5.73. Current-year xERAs (5.07 vs 5.20) are",
     "bankroll_after": "717.6"
+  },
+  {
+    "date": "2026-05-13",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "-126.0",
+    "line": "-150.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Substantial SP mismatch in a dome (weather neutral). Cease has been elite this year \u00e2\u20ac\u201d career 3.83 ERA over 1060 IP, current 2.58 ERA / 2.94 xERA (191 PA, well-backed) with 13.1 K/9, and his last three starts span 19.2 IP with strong K rates. Jax's ",
+    "bankroll_after": "677.6"
   }
 ]
