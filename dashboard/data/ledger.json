@@ -2190,5 +2190,21 @@
     "pnl": "35.5",
     "reasoning_summary": "Skenes (career 2.01 ERA, 1.96 xERA, 0.71 WHIP this season, 0/3/0 ER in last 3) projects to suppress Colorado to 1-2 runs across 7+ IP \u00e2\u20ac\u201d the away side of this total is anchored low by an elite SP regardless of lineup. The over therefore needs Pittsb",
     "bankroll_after": "797.6"
+  },
+  {
+    "date": "2026-05-13",
+    "game": "Philadelphia Phillies @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-103.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Painter has been one of the worst SPs in baseball \u00e2\u20ac\u201d 6.89 ERA / 5.00 xERA in his only MLB sample, with 16 ER over his last 14.1 IP including an 8-ER outing on 5/7. Fenway has a STRONG_OUT tailwind (+11.9 mph to CF) that compounds his contact-quality",
+    "bankroll_after": "757.6"
   }
 ]
