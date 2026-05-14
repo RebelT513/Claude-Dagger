@@ -2218,8 +2218,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Nelson is meaningfully the better starter by the reliable signals: career 4.30 ERA / 1.23 WHIP over 505 IP and prior-year xERA 3.93 vs Rocker's career 5.32 ERA / 1.49 WHIP in only 108 IP and prior-year xERA 5.73. Current-year xERAs (5.07 vs 5.20) are",
     "bankroll_after": "717.6"
   },
@@ -2253,6 +2253,6 @@
     "result": "win",
     "pnl": "61.28",
     "reasoning_summary": "Severe SP mismatch: Cease (career 3.83 ERA/11.0 K/9 over 1060 IP, current xERA 2.94 over 191 PA \u00e2\u20ac\u201d meaningful sample) vs Jax who has career bullpen profile, walking 5.0/9 currently and going only 2.1-4.0 IP last three starts. TB bullpen is heavily t",
-    "bankroll_after": "738.88"
+    "bankroll_after": "810.82"
   }
 ]
