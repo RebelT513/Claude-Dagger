@@ -2254,5 +2254,21 @@
     "pnl": "61.28",
     "reasoning_summary": "Severe SP mismatch: Cease (career 3.83 ERA/11.0 K/9 over 1060 IP, current xERA 2.94 over 191 PA \u00e2\u20ac\u201d meaningful sample) vs Jax who has career bullpen profile, walking 5.0/9 currently and going only 2.1-4.0 IP last three starts. TB bullpen is heavily t",
     "bankroll_after": "810.82"
+  },
+  {
+    "date": "2026-05-14",
+    "game": "Philadelphia Phillies @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-113.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both SPs have strong career/xERA profiles \u00e2\u20ac\u201d Luzardo (career 4.28 ERA over 739 IP, prior-year xERA 3.33, current xERA 3.20) is being mispriced by recent surface ERA; Suarez (career 3.35 ERA over 801 IP, prior-year xERA 3.16) is a quality veteran lef",
+    "bankroll_after": "769.82"
   }
 ]
