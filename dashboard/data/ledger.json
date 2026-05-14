@@ -2202,8 +2202,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Painter has been one of the worst SPs in baseball \u00e2\u20ac\u201d 6.89 ERA / 5.00 xERA in his only MLB sample, with 16 ER over his last 14.1 IP including an 8-ER outing on 5/7. Fenway has a STRONG_OUT tailwind (+11.9 mph to CF) that compounds his contact-quality",
     "bankroll_after": "757.6"
   },
