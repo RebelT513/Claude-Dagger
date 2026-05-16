@@ -2286,5 +2286,21 @@
     "pnl": "-41.0",
     "reasoning_summary": "McGreevy's 2.18 ERA hides an xERA of 5.05 (168 PA) and a prior-year xERA of 4.67 \u00e2\u20ac\u201d his career 3.46 ERA over 164 IP is a more honest baseline. He now faces Oakland's strong .898 OPS lineup (Kurtz, Langeliers, Cortes, Bolte) in a hitter-friendly park",
     "bankroll_after": "806.11"
+  },
+  {
+    "date": "2026-05-16",
+    "game": "Cincinnati Reds @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-108.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Paddack is hemorrhaging runs (last 3 starts: 7 ER/2.2 IP, 2 ER/4 IP, 5 ER/4.2 IP; 7.63 ERA, 5.03 prior-year xERA) and faces a Cleveland lineup with three .770+ OPS bats in the top 4. He almost certainly turns the game over to Cincinnati's bullpen by ",
+    "bankroll_after": "766.11"
   }
 ]
