@@ -2298,9 +2298,9 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "37.37",
     "reasoning_summary": "Paddack is hemorrhaging runs (last 3 starts: 7 ER/2.2 IP, 2 ER/4 IP, 5 ER/4.2 IP; 7.63 ERA, 5.03 prior-year xERA) and faces a Cleveland lineup with three .770+ OPS bats in the top 4. He almost certainly turns the game over to Cincinnati's bullpen by ",
-    "bankroll_after": "766.11"
+    "bankroll_after": "843.48"
   }
 ]
