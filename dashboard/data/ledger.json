@@ -2318,5 +2318,21 @@
     "pnl": "36.91",
     "reasoning_summary": "Clear SP mismatch: Gausman (career 3.82 ERA over 1962 IP, current xERA 3.46, xwOBA .297, natural RHP-vs-all-R platoon edge) faces a broken version of Flaherty (5.73 ERA, 1.73 WHIP, 6.9 BB/9, xERA 5.18 confirming the rot is real not BABIP \u00e2\u20ac\u201d pulled b",
     "bankroll_after": "880.39"
+  },
+  {
+    "date": "2026-05-18",
+    "game": "Boston Red Sox @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-116.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "44.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Total 9.0 has tight 11-book consensus, but Kauffman is playing with a 20 mph tailwind to CF (+10.1 mph straight out, STRONG_OUT classification) \u00e2\u20ac\u201d a real run-environment tailwind that the line does not appear to be pricing aggressively. Seth Lugo ha",
+    "bankroll_after": "836.39"
   }
 ]
