@@ -2330,8 +2330,8 @@
     "units": "1",
     "stake_usd": "44.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-44.0",
     "reasoning_summary": "Total 9.0 has tight 11-book consensus, but Kauffman is playing with a 20 mph tailwind to CF (+10.1 mph straight out, STRONG_OUT classification) \u00e2\u20ac\u201d a real run-environment tailwind that the line does not appear to be pricing aggressively. Seth Lugo ha",
     "bankroll_after": "836.39"
   },
