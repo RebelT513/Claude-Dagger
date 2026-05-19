@@ -2346,8 +2346,8 @@
     "units": "1",
     "stake_usd": "44.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-44.0",
     "reasoning_summary": "Clear SP mismatch: Imanaga (career 3.14 ERA / 2.91 xERA over 372 IP, strong control) vs Sproat (career 5.40 ERA over only 56 IP, 4.83 xERA, 5.0 BB/9). Cubs lineup (.785 avg OPS, Conforto 1.111, Suzuki/Happ/Vaughn all .800+) is the stronger of the two",
     "bankroll_after": "792.39"
   }
