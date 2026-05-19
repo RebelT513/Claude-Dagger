@@ -2334,5 +2334,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Total 9.0 has tight 11-book consensus, but Kauffman is playing with a 20 mph tailwind to CF (+10.1 mph straight out, STRONG_OUT classification) \u00e2\u20ac\u201d a real run-environment tailwind that the line does not appear to be pricing aggressively. Seth Lugo ha",
     "bankroll_after": "836.39"
+  },
+  {
+    "date": "2026-05-18",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago Cubs",
+    "odds": "-101.0",
+    "line": "-103.0",
+    "units": "1",
+    "stake_usd": "44.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch: Imanaga (career 3.14 ERA / 2.91 xERA over 372 IP, strong control) vs Sproat (career 5.40 ERA over only 56 IP, 4.83 xERA, 5.0 BB/9). Cubs lineup (.785 avg OPS, Conforto 1.111, Suzuki/Happ/Vaughn all .800+) is the stronger of the two",
+    "bankroll_after": "792.39"
   }
 ]
