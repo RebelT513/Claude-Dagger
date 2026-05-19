@@ -2382,5 +2382,21 @@
     "pnl": "0.0",
     "reasoning_summary": "DET's lineup is exceptionally weak (.639 OPS across the order with four sub-.700 bats and three sub-.600 OPS hitters at the bottom) and faces Messick, whose 3.10 current xERA and 3.07 prior-year xERA confirm he's a genuine plus arm with a 9.7 K/9 \u00e2\u20ac\u201d",
     "bankroll_after": "712.39"
+  },
+  {
+    "date": "2026-05-19",
+    "game": "New York Mets @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u9",
+    "odds": "-120.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "McLean is genuinely elite (career 2.51 ERA / 100 IP, current xERA 2.77, xwOBA .266) facing a decent but not dangerous Nats lineup (.709 OPS) \u00e2\u20ac\u201d expect ~2.5-3 runs allowed in his 5-6 IP. Griffin's xERA 4.53 is concerning, but the Mets lineup is sever",
+    "bankroll_after": "672.39"
   }
 ]
