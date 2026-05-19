@@ -2350,5 +2350,21 @@
     "pnl": "-44.0",
     "reasoning_summary": "Clear SP mismatch: Imanaga (career 3.14 ERA / 2.91 xERA over 372 IP, strong control) vs Sproat (career 5.40 ERA over only 56 IP, 4.83 xERA, 5.0 BB/9). Cubs lineup (.785 avg OPS, Conforto 1.111, Suzuki/Happ/Vaughn all .800+) is the stronger of the two",
     "bankroll_after": "792.39"
+  },
+  {
+    "date": "2026-05-19",
+    "game": "Toronto Blue Jays @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "120.0",
+    "line": "115.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Cease holds a clear career edge over Warren (3.81 career ERA / 3.46 prior xERA vs Warren's 4.80 / 4.58 over a thin 232 IP sample), and Cease is in elite form right now with three straight 7-inning quality starts and 2.90 current xERA. Warren has show",
+    "bankroll_after": "752.39"
   }
 ]
