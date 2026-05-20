@@ -2414,5 +2414,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Reds are the better team being priced as a +130 dog. Abbott (career 3.50 ERA/1.27 WHIP over 465 IP, prior-year xERA 3.56) is on a strong recent run \u00e2\u20ac\u201d 1 ER over his last 16.2 IP \u00e2\u20ac\u201d while Nola has been getting shelled (career 3.88 but 5.91 this year",
     "bankroll_after": "710.5"
+  },
+  {
+    "date": "2026-05-20",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "-116.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "37.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong in-wind (-15.8 mph) at Wrigley with 49\u00c2\u00b0F cold is a textbook run-suppressing environment, and totals data notes weather-driven unders as the most reliable recent angle. Harrison's current form (2.09 ERA, 3.39 xERA, 11.2 K/9) caps the Cubs side",
+    "bankroll_after": "673.5"
   }
 ]
