@@ -2446,5 +2446,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Sale is an elite arm (career 2.98 ERA, 2.87 prior xERA, 3.08 current xERA) facing a Marlins lineup averaging just .686 OPS with multiple sub-.600 OPS bats in the middle \u00e2\u20ac\u201d projects to 1-2 runs across 6-7 IP. Junk is the weaker side but the Braves' t",
     "bankroll_after": "719.38"
+  },
+  {
+    "date": "2026-05-20",
+    "game": "Los Angeles Dodgers @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Los Angeles Dodgers -1.5",
+    "odds": "-108.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Heavy SP mismatch: Ohtani (career 2.83 ERA, 2.33 xERA, 0 ER over last two starts) faces a weak Padres lineup averaging .655 OPS with multiple sub-.620 bats in the heart of the order (Tatis .585, Machado .616, Merrill .599, Castellanos .557). V\u00c3\u00a1squez",
+    "bankroll_after": "679.38"
   }
 ]
