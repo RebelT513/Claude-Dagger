@@ -2430,5 +2430,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Strong in-wind (-15.8 mph) at Wrigley with 49\u00c2\u00b0F cold is a textbook run-suppressing environment, and totals data notes weather-driven unders as the most reliable recent angle. Harrison's current form (2.09 ERA, 3.39 xERA, 11.2 K/9) caps the Cubs side",
     "bankroll_after": "759.38"
+  },
+  {
+    "date": "2026-05-20",
+    "game": "Atlanta Braves @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "-105.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Sale is an elite arm (career 2.98 ERA, 2.87 prior xERA, 3.08 current xERA) facing a Marlins lineup averaging just .686 OPS with multiple sub-.600 OPS bats in the middle \u00e2\u20ac\u201d projects to 1-2 runs across 6-7 IP. Junk is the weaker side but the Braves' t",
+    "bankroll_after": "719.38"
   }
 ]
