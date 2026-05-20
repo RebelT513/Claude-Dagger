@@ -2394,8 +2394,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "McLean is genuinely elite (career 2.51 ERA / 100 IP, current xERA 2.77, xwOBA .266) facing a decent but not dangerous Nats lineup (.709 OPS) \u00e2\u20ac\u201d expect ~2.5-3 runs allowed in his 5-6 IP. Griffin's xERA 4.53 is concerning, but the Mets lineup is sever",
     "bankroll_after": "747.5"
   }
