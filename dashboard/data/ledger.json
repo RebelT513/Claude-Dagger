@@ -2362,8 +2362,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Cease holds a clear career edge over Warren (3.81 career ERA / 3.46 prior xERA vs Warren's 4.80 / 4.58 over a thin 232 IP sample), and Cease is in elite form right now with three straight 7-inning quality starts and 2.90 current xERA. Warren has show",
     "bankroll_after": "752.39"
   },
