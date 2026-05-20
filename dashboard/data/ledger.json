@@ -2398,5 +2398,21 @@
     "pnl": "-40.0",
     "reasoning_summary": "McLean is genuinely elite (career 2.51 ERA / 100 IP, current xERA 2.77, xwOBA .266) facing a decent but not dangerous Nats lineup (.709 OPS) \u00e2\u20ac\u201d expect ~2.5-3 runs allowed in his 5-6 IP. Griffin's xERA 4.53 is concerning, but the Mets lineup is sever",
     "bankroll_after": "747.5"
+  },
+  {
+    "date": "2026-05-20",
+    "game": "Cincinnati Reds @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cincinnati Reds",
+    "odds": "132.0",
+    "line": "130.0",
+    "units": "1",
+    "stake_usd": "37.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Reds are the better team being priced as a +130 dog. Abbott (career 3.50 ERA/1.27 WHIP over 465 IP, prior-year xERA 3.56) is on a strong recent run \u00e2\u20ac\u201d 1 ER over his last 16.2 IP \u00e2\u20ac\u201d while Nola has been getting shelled (career 3.88 but 5.91 this year",
+    "bankroll_after": "710.5"
   }
 ]
