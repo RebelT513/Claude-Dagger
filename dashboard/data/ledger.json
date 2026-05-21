@@ -2458,9 +2458,9 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "37.04",
     "reasoning_summary": "Heavy SP mismatch: Ohtani (career 2.83 ERA, 2.33 xERA, 0 ER over last two starts) faces a weak Padres lineup averaging .655 OPS with multiple sub-.620 bats in the heart of the order (Tatis .585, Machado .616, Merrill .599, Castellanos .557). V\u00c3\u00a1squez",
-    "bankroll_after": "748.54"
+    "bankroll_after": "825.58"
   }
 ]
