@@ -2478,5 +2478,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 1H is a pure starting-pitcher matchup, and there is a large, reliable career gap here: Peralta carries a 3.57 career ERA / 1.14 WHIP over 985 IP with prior-year xERA 3.43, while Meyer is a 4.57 career ERA over just 181 IP with prior-year xERA 4.8",
     "bankroll_after": "784.58"
+  },
+  {
+    "date": "2026-05-23",
+    "game": "Cleveland Guardians @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "-107.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Wheeler is an elite run suppressor (career 3.26 ERA/1760 IP, prior-year xERA 2.49, 0.88 WHIP this year) facing a weak Guardians lineup (.691 OPS, with Kwan/Bailey dragging the bottom). Conditions strongly favor the under: 52\u00c2\u00b0F, light drizzle, and a ",
+    "bankroll_after": "743.58"
   }
 ]
