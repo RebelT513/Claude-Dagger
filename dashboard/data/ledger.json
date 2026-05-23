@@ -2474,8 +2474,8 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-41.0",
     "reasoning_summary": "The 1H is a pure starting-pitcher matchup, and there is a large, reliable career gap here: Peralta carries a 3.57 career ERA / 1.14 WHIP over 985 IP with prior-year xERA 3.43, while Meyer is a 4.57 career ERA over just 181 IP with prior-year xERA 4.8",
     "bankroll_after": "784.58"
   },
