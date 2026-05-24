@@ -2522,8 +2522,8 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-41.0",
     "reasoning_summary": "Clear quality gap: Gallen (3.64 career ERA, 9.3 K/9) over a struggling Lorenzen who carries a 7.03 ERA, sub-5-inning recent outings, and was already shelled by this exact lineup last week (6 ER in 4.2 IP). Arizona's lineup (.748 OPS, Carroll .943) is",
     "bankroll_after": "741.23"
   },
