@@ -2570,10 +2570,10 @@
     "units": "1",
     "stake_usd": "35.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Two well-below-average offenses (Detroit 0.616 OPS, Baltimore 0.692 OPS) in a moderate wind-in, 63\u00c2\u00b0F environment support the under. Valdez (career 3.42 ERA, 1135 IP) caps a mediocre Baltimore lineup, and Detroit's lineup is too weak to exploit Young",
-    "bankroll_after": "700.23"
+    "bankroll_after": "735.23"
   },
   {
     "date": "2026-05-24",
@@ -2589,7 +2589,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Textbook weather-driven under: 53\u00c2\u00b0F with light drizzle and a moderate wind blowing in to center at wind-sensitive Fenway all suppress run scoring. Both lineups are mediocre-to-weak (Boston averaging just .697 OPS with three sub-.620 bats in the bott",
-    "bankroll_after": "665.23"
+    "bankroll_after": "700.23"
   },
   {
     "date": "2026-05-24",
@@ -2605,6 +2605,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Textbook run-suppression confluence at a wind-sensitive park: moderate wind blowing in from CF at Wrigley, a notably weak Astros lineup (0.664 OPS, with the 1-2-5-6 spots all sub-.630), and two starters with strong current-year profiles \u00e2\u20ac\u201d Imanaga i",
-    "bankroll_after": "630.23"
+    "bankroll_after": "665.23"
   }
 ]
