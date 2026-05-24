@@ -2494,5 +2494,21 @@
     "pnl": "38.65",
     "reasoning_summary": "Wheeler is an elite run suppressor (career 3.26 ERA/1760 IP, prior-year xERA 2.49, 0.88 WHIP this year) facing a weak Guardians lineup (.691 OPS, with Kwan/Bailey dragging the bottom). Conditions strongly favor the under: 52\u00c2\u00b0F, light drizzle, and a ",
     "bankroll_after": "823.23"
+  },
+  {
+    "date": "2026-05-23",
+    "game": "Texas Rangers @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Texas Rangers -1.5",
+    "odds": "122.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Eovaldi (1757 career IP, 3.88 career ERA, three straight dominant starts allowing 0-1-0 ER) is far more reliable than Ure\u00c3\u00b1a, whose 2.70 ERA sits on just 33 IP and is undercut by a 5.1 BB/9 walk rate that invites traffic. The Angels' .837 lineup OPS ",
+    "bankroll_after": "782.23"
   }
 ]
