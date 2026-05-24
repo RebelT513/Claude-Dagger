@@ -2510,5 +2510,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Eovaldi (1757 career IP, 3.88 career ERA, three straight dominant starts allowing 0-1-0 ER) is far more reliable than Ure\u00c3\u00b1a, whose 2.70 ERA sits on just 33 IP and is undercut by a 5.1 BB/9 walk rate that invites traffic. The Angels' .837 lineup OPS ",
     "bankroll_after": "782.23"
+  },
+  {
+    "date": "2026-05-23",
+    "game": "Colorado Rockies @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Arizona Diamondbacks -1.5",
+    "odds": "109.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear quality gap: Gallen (3.64 career ERA, 9.3 K/9) over a struggling Lorenzen who carries a 7.03 ERA, sub-5-inning recent outings, and was already shelled by this exact lineup last week (6 ER in 4.2 IP). Arizona's lineup (.748 OPS, Carroll .943) is",
+    "bankroll_after": "741.23"
   }
 ]
