@@ -2526,5 +2526,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear quality gap: Gallen (3.64 career ERA, 9.3 K/9) over a struggling Lorenzen who carries a 7.03 ERA, sub-5-inning recent outings, and was already shelled by this exact lineup last week (6 ER in 4.2 IP). Arizona's lineup (.748 OPS, Carroll .943) is",
     "bankroll_after": "741.23"
+  },
+  {
+    "date": "2026-05-23",
+    "game": "Athletics @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Athletics",
+    "odds": "145.0",
+    "line": "140.0",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Fundamentals point clearly to the A's despite the +140 price. Ginn is the more reliable starter right now (51.1 IP, xERA 3.63, three straight strong starts) while Giolito is a 5-IP unknown with a poor prior-year xERA (5.06) and a 5.4 BB/9 walk proble",
+    "bankroll_after": "700.23"
   }
 ]
