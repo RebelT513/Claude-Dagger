@@ -2506,8 +2506,8 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "47",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-41.0",
     "reasoning_summary": "Eovaldi (1757 career IP, 3.88 career ERA, three straight dominant starts allowing 0-1-0 ER) is far more reliable than Ure\u00c3\u00b1a, whose 2.70 ERA sits on just 33 IP and is undercut by a 5.1 BB/9 walk rate that invites traffic. The Angels' .837 lineup OPS ",
     "bankroll_after": "782.23"
   },
