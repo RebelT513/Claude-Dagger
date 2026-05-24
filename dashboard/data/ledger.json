@@ -2542,5 +2542,21 @@
     "pnl": "-41.0",
     "reasoning_summary": "Fundamentals point clearly to the A's despite the +140 price. Ginn is the more reliable starter right now (51.1 IP, xERA 3.63, three straight strong starts) while Giolito is a 5-IP unknown with a poor prior-year xERA (5.06) and a 5.4 BB/9 walk proble",
     "bankroll_after": "700.23"
+  },
+  {
+    "date": "2026-05-24",
+    "game": "St. Louis Cardinals @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10",
+    "odds": "-106.0",
+    "line": "10.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project to ~6.0 xERA on adequate samples (~50 IP each, past early-season noise) and the xERA confirms the poor ERAs are contact-quality driven, not luck. Great American Ball Park is hitter-friendly with neutral wind, and both lineups ar",
+    "bankroll_after": "665.23"
   }
 ]
