@@ -2574,5 +2574,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two well-below-average offenses (Detroit 0.616 OPS, Baltimore 0.692 OPS) in a moderate wind-in, 63\u00c2\u00b0F environment support the under. Valdez (career 3.42 ERA, 1135 IP) caps a mediocre Baltimore lineup, and Detroit's lineup is too weak to exploit Young",
     "bankroll_after": "630.23"
+  },
+  {
+    "date": "2026-05-24",
+    "game": "Minnesota Twins @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "100.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Textbook weather-driven under: 53\u00c2\u00b0F with light drizzle and a moderate wind blowing in to center at wind-sensitive Fenway all suppress run scoring. Both lineups are mediocre-to-weak (Boston averaging just .697 OPS with three sub-.620 bats in the bott",
+    "bankroll_after": "595.23"
   }
 ]
