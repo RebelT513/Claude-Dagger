@@ -2558,5 +2558,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters project to ~6.0 xERA on adequate samples (~50 IP each, past early-season noise) and the xERA confirms the poor ERAs are contact-quality driven, not luck. Great American Ball Park is hitter-friendly with neutral wind, and both lineups ar",
     "bankroll_after": "665.23"
+  },
+  {
+    "date": "2026-05-24",
+    "game": "Detroit Tigers @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-114.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two well-below-average offenses (Detroit 0.616 OPS, Baltimore 0.692 OPS) in a moderate wind-in, 63\u00c2\u00b0F environment support the under. Valdez (career 3.42 ERA, 1135 IP) caps a mediocre Baltimore lineup, and Detroit's lineup is too weak to exploit Young",
+    "bankroll_after": "630.23"
   }
 ]
