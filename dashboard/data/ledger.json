@@ -2538,10 +2538,10 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "59.47",
     "reasoning_summary": "Fundamentals point clearly to the A's despite the +140 price. Ginn is the more reliable starter right now (51.1 IP, xERA 3.63, three straight strong starts) while Giolito is a 5-IP unknown with a poor prior-year xERA (5.06) and a 5.4 BB/9 walk proble",
-    "bankroll_after": "700.23"
+    "bankroll_after": "800.7"
   },
   {
     "date": "2026-05-24",
@@ -2557,7 +2557,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Both starters project to ~6.0 xERA on adequate samples (~50 IP each, past early-season noise) and the xERA confirms the poor ERAs are contact-quality driven, not luck. Great American Ball Park is hitter-friendly with neutral wind, and both lineups ar",
-    "bankroll_after": "735.23"
+    "bankroll_after": "800.7"
   },
   {
     "date": "2026-05-24",
@@ -2573,7 +2573,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Two well-below-average offenses (Detroit 0.616 OPS, Baltimore 0.692 OPS) in a moderate wind-in, 63\u00c2\u00b0F environment support the under. Valdez (career 3.42 ERA, 1135 IP) caps a mediocre Baltimore lineup, and Detroit's lineup is too weak to exploit Young",
-    "bankroll_after": "735.23"
+    "bankroll_after": "800.7"
   },
   {
     "date": "2026-05-24",
@@ -2589,7 +2589,7 @@
     "result": "loss",
     "pnl": "-35.0",
     "reasoning_summary": "Textbook weather-driven under: 53\u00c2\u00b0F with light drizzle and a moderate wind blowing in to center at wind-sensitive Fenway all suppress run scoring. Both lineups are mediocre-to-weak (Boston averaging just .697 OPS with three sub-.620 bats in the bott",
-    "bankroll_after": "700.23"
+    "bankroll_after": "765.7"
   },
   {
     "date": "2026-05-24",
@@ -2605,7 +2605,7 @@
     "result": "loss",
     "pnl": "-35.0",
     "reasoning_summary": "Textbook run-suppression confluence at a wind-sensitive park: moderate wind blowing in from CF at Wrigley, a notably weak Astros lineup (0.664 OPS, with the 1-2-5-6 spots all sub-.630), and two starters with strong current-year profiles \u00e2\u20ac\u201d Imanaga i",
-    "bankroll_after": "665.23"
+    "bankroll_after": "730.7"
   },
   {
     "date": "2026-05-24",
@@ -2621,6 +2621,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters profile better than their surface ERAs: Detmers carries a 3.22 xERA / .287 xwOBA (prior-year xERA 3.61) and Gore a 3.96 xERA (prior 4.33) over 581 career IP \u00e2\u20ac\u201d two pitchers the contact-quality data says suppress runs despite ugly recen",
-    "bankroll_after": "596.23"
+    "bankroll_after": "696.7"
   }
 ]
