@@ -2586,8 +2586,8 @@
     "units": "1",
     "stake_usd": "35.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-35.0",
     "reasoning_summary": "Textbook weather-driven under: 53\u00c2\u00b0F with light drizzle and a moderate wind blowing in to center at wind-sensitive Fenway all suppress run scoring. Both lineups are mediocre-to-weak (Boston averaging just .697 OPS with three sub-.620 bats in the bott",
     "bankroll_after": "700.23"
   },
