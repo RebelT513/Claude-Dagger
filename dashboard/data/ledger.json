@@ -2638,5 +2638,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Oracle Park is one of the strongest pitcher's parks in MLB, and tonight adds 52\u00c2\u00b0F cold and fog that further suppress carry \u00e2\u20ac\u201d a genuinely run-dampening environment. Both starters are throwing well: Roupp's 2.83 xERA (224 PA) confirms his 3.27 ERA i",
     "bankroll_after": "726.85"
+  },
+  {
+    "date": "2026-05-25",
+    "game": "Philadelphia Phillies @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Philadelphia Phillies",
+    "odds": "-122.0",
+    "line": "-126.0",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear underlying SP mismatch the market only partly prices. V\u00c3\u00a1squez carries a shiny 2.96 ERA but a 5.45 xERA (5.37 prior year) and .363 xwOBA with a weak 6.1 career K/9 \u00e2\u20ac\u201d that is one of the largest ERA-vs-xERA gaps you'll see and signals heavy reg",
+    "bankroll_after": "688.85"
   }
 ]
