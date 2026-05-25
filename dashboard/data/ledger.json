@@ -2666,9 +2666,9 @@
     "units": "1",
     "stake_usd": "38.0",
     "confidence_score": "51",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "46.13",
     "reasoning_summary": "The Mets are -136 favorites almost entirely on McLean's strength (career 2.89 ERA, 2.92 xERA), but their lineup is catastrophic at .567 OPS \u00e2\u20ac\u201d well below the B-squad threshold \u00e2\u20ac\u201d and can't be trusted to score even against a struggling Lodolo whose ",
-    "bankroll_after": "650.85"
+    "bankroll_after": "734.98"
   }
 ]
