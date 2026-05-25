@@ -2622,5 +2622,21 @@
     "pnl": "34.15",
     "reasoning_summary": "Both starters profile better than their surface ERAs: Detmers carries a 3.22 xERA / .287 xwOBA (prior-year xERA 3.61) and Gore a 3.96 xERA (prior 4.33) over 581 career IP \u00e2\u20ac\u201d two pitchers the contact-quality data says suppress runs despite ugly recen",
     "bankroll_after": "764.85"
+  },
+  {
+    "date": "2026-05-25",
+    "game": "Arizona Diamondbacks @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-109.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Oracle Park is one of the strongest pitcher's parks in MLB, and tonight adds 52\u00c2\u00b0F cold and fog that further suppress carry \u00e2\u20ac\u201d a genuinely run-dampening environment. Both starters are throwing well: Roupp's 2.83 xERA (224 PA) confirms his 3.27 ERA i",
+    "bankroll_after": "726.85"
   }
 ]
