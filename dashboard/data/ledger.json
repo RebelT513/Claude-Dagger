@@ -2634,8 +2634,8 @@
     "units": "1",
     "stake_usd": "38.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-38.0",
     "reasoning_summary": "Oracle Park is one of the strongest pitcher's parks in MLB, and tonight adds 52\u00c2\u00b0F cold and fog that further suppress carry \u00e2\u20ac\u201d a genuinely run-dampening environment. Both starters are throwing well: Roupp's 2.83 xERA (224 PA) confirms his 3.27 ERA i",
     "bankroll_after": "726.85"
   },
