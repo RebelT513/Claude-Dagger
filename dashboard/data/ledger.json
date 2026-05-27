@@ -2670,5 +2670,21 @@
     "pnl": "46.13",
     "reasoning_summary": "The Mets are -136 favorites almost entirely on McLean's strength (career 2.89 ERA, 2.92 xERA), but their lineup is catastrophic at .567 OPS \u00e2\u20ac\u201d well below the B-squad threshold \u00e2\u20ac\u201d and can't be trusted to score even against a struggling Lodolo whose ",
     "bankroll_after": "804.37"
+  },
+  {
+    "date": "2026-05-27",
+    "game": "Philadelphia Phillies @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "-109.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Elite, in-form SP (S\u00c3\u00a1nchez: career 3.05 ERA, 2.88 xERA, three straight scoreless 7-9 IP starts) faces a genuinely weak Padres lineup (.642 avg OPS, bottom four all sub-.620) in a strong pitcher's park (Petco, 62\u00c2\u00b0F overcast, neutral wind). Padres pr",
+    "bankroll_after": "764.37"
   }
 ]
