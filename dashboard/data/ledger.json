@@ -2682,10 +2682,10 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "36.7",
     "reasoning_summary": "Elite, in-form SP (S\u00c3\u00a1nchez: career 3.05 ERA, 2.88 xERA, three straight scoreless 7-9 IP starts) faces a genuinely weak Padres lineup (.642 avg OPS, bottom four all sub-.620) in a strong pitcher's park (Petco, 62\u00c2\u00b0F overcast, neutral wind). Padres pr",
-    "bankroll_after": "764.37"
+    "bankroll_after": "841.07"
   },
   {
     "date": "2026-05-27",
@@ -2698,9 +2698,9 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "28.94",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez (career 3.05 ERA, 2.88 xERA, .271 xwOBA, three straight scoreless deep starts) is meaningfully superior to Buehler (5.05 ERA, 4.67 xERA, .339 xwOBA allowed), and the Padres lineup is genuinely weak (.642 OPS ",
-    "bankroll_after": "724.37"
+    "bankroll_after": "793.31"
   }
 ]
