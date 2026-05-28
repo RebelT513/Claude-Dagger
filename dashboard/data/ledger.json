@@ -2702,5 +2702,21 @@
     "pnl": "28.94",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez (career 3.05 ERA, 2.88 xERA, .271 xwOBA, three straight scoreless deep starts) is meaningfully superior to Buehler (5.05 ERA, 4.67 xERA, .339 xwOBA allowed), and the Padres lineup is genuinely weak (.642 OPS ",
     "bankroll_after": "793.31"
+  },
+  {
+    "date": "2026-05-28",
+    "game": "Minnesota Twins @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Chicago White Sox -1.5",
+    "odds": "153.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "44.0",
+    "confidence_score": "43",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting-pitcher mismatch: Davis Martin has a reliable 317-IP career profile with elite control this year (1.8 BB/9, 1.02 WHIP over 61 IP), while Kendry Rojas is a 14-IP rookie walking 6.3/9 \u00e2\u20ac\u201d a wildness profile that produces crooked-number i",
+    "bankroll_after": "826.01"
   }
 ]
