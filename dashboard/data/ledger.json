@@ -2714,9 +2714,9 @@
     "units": "1",
     "stake_usd": "44.0",
     "confidence_score": "43",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "67.4",
     "reasoning_summary": "Clear starting-pitcher mismatch: Davis Martin has a reliable 317-IP career profile with elite control this year (1.8 BB/9, 1.02 WHIP over 61 IP), while Kendry Rojas is a 14-IP rookie walking 6.3/9 \u00e2\u20ac\u201d a wildness profile that produces crooked-number i",
-    "bankroll_after": "826.01"
+    "bankroll_after": "937.41"
   }
 ]
