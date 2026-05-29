@@ -2718,5 +2718,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: Davis Martin has a reliable 317-IP career profile with elite control this year (1.8 BB/9, 1.02 WHIP over 61 IP), while Kendry Rojas is a 14-IP rookie walking 6.3/9 \u00e2\u20ac\u201d a wildness profile that produces crooked-number i",
     "bankroll_after": "837.31"
+  },
+  {
+    "date": "2026-05-29",
+    "game": "Philadelphia Phillies @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Philadelphia Phillies",
+    "odds": "103.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "42.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch \u00e2\u20ac\u201d Wheeler (career 3.25 ERA / 1766 IP, prior-year xERA 2.49, current xERA 3.16, last two starts 13.0 IP / 0 ER) vs Wrobleski (career 4.20 ERA, prior-year xERA 3.43, current xERA 4.09 with a 5 ER start last time out). Getting Philli",
+    "bankroll_after": "796.62"
   }
 ]
