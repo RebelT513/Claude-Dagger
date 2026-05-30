@@ -2746,8 +2746,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Both starters are quality with career ERA well under 3.80 (Gray 3.57 over 1962 IP, Messick 2.42 over 104 IP with 3.07 prior-year xERA), so the 1H/full-game suppression case rests on real career data for BOTH sides \u00e2\u20ac\u201d meeting the bar for an under the",
     "bankroll_after": "756.62"
   },
