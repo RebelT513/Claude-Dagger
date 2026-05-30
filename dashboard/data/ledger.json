@@ -2734,5 +2734,21 @@
     "pnl": "-42.0",
     "reasoning_summary": "Clear SP mismatch \u00e2\u20ac\u201d Wheeler (career 3.25 ERA / 1766 IP, prior-year xERA 2.49, current xERA 3.16, last two starts 13.0 IP / 0 ER) vs Wrobleski (career 4.20 ERA, prior-year xERA 3.43, current xERA 4.09 with a 5 ER start last time out). Getting Philli",
     "bankroll_after": "796.62"
+  },
+  {
+    "date": "2026-05-30",
+    "game": "Boston Red Sox @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "103.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are quality with career ERA well under 3.80 (Gray 3.57 over 1962 IP, Messick 2.42 over 104 IP with 3.07 prior-year xERA), so the 1H/full-game suppression case rests on real career data for BOTH sides \u00e2\u20ac\u201d meeting the bar for an under the",
+    "bankroll_after": "756.62"
   }
 ]
