@@ -2750,5 +2750,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are quality with career ERA well under 3.80 (Gray 3.57 over 1962 IP, Messick 2.42 over 104 IP with 3.07 prior-year xERA), so the 1H/full-game suppression case rests on real career data for BOTH sides \u00e2\u20ac\u201d meeting the bar for an under the",
     "bankroll_after": "756.62"
+  },
+  {
+    "date": "2026-05-30",
+    "game": "Philadelphia Phillies @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Philadelphia Phillies",
+    "odds": "113.0",
+    "line": "109.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting-pitcher mismatch underpriced at plus money. Luzardo brings a career 4.21 ERA over 757 IP with elite contact quality (xERA 3.15, xwOBA .283) and is in dominant recent form (2 ER over his last 18 IP across three quality starts). Sasaki h",
+    "bankroll_after": "716.62"
   }
 ]
