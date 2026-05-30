@@ -2778,9 +2778,9 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "56",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "This is a weather-driven under setup: 57\u00c2\u00b0F with a STRONG_IN 25 mph wind to center field, plus two below-average offenses (Miami .675 OPS, Mets .643 OPS, both under the .700 threshold where run production is suspect). Phillips owns the SP edge (caree",
-    "bankroll_after": "676.62"
+    "bankroll_after": "716.62"
   }
 ]
