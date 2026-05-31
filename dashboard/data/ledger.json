@@ -2794,8 +2794,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Clear SP mismatch favoring Kansas City: Wacha is a reliable above-average veteran (career 3.84 ERA/1697 IP, xERA 3.94, 1.02 WHIP) while Leiter is below-average and walk-prone (career 4.79 ERA, xERA 4.65, BB/9 ~4.0). With two weak offenses (.676 vs .6",
     "bankroll_after": "762.02"
   }
