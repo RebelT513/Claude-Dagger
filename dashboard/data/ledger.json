@@ -2762,10 +2762,10 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "45.4",
     "reasoning_summary": "Clear starting-pitcher mismatch underpriced at plus money. Luzardo brings a career 4.21 ERA over 757 IP with elite contact quality (xERA 3.15, xwOBA .283) and is in dominant recent form (2 ER over his last 18 IP across three quality starts). Sasaki h",
-    "bankroll_after": "716.62"
+    "bankroll_after": "802.02"
   },
   {
     "date": "2026-05-30",
@@ -2781,6 +2781,6 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "This is a weather-driven under setup: 57\u00c2\u00b0F with a STRONG_IN 25 mph wind to center field, plus two below-average offenses (Miami .675 OPS, Mets .643 OPS, both under the .700 threshold where run production is suspect). Phillips owns the SP edge (caree",
-    "bankroll_after": "716.62"
+    "bankroll_after": "802.02"
   }
 ]
