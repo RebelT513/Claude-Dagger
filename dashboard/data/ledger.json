@@ -2782,5 +2782,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a weather-driven under setup: 57\u00c2\u00b0F with a STRONG_IN 25 mph wind to center field, plus two below-average offenses (Miami .675 OPS, Mets .643 OPS, both under the .700 threshold where run production is suspect). Phillips owns the SP edge (caree",
     "bankroll_after": "802.02"
+  },
+  {
+    "date": "2026-05-31",
+    "game": "Kansas City Royals @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Kansas City Royals",
+    "odds": "100.0",
+    "line": "-104.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch favoring Kansas City: Wacha is a reliable above-average veteran (career 3.84 ERA/1697 IP, xERA 3.94, 1.02 WHIP) while Leiter is below-average and walk-prone (career 4.79 ERA, xERA 4.65, BB/9 ~4.0). With two weak offenses (.676 vs .6",
+    "bankroll_after": "762.02"
   }
 ]
