@@ -2798,5 +2798,21 @@
     "pnl": "-40.0",
     "reasoning_summary": "Clear SP mismatch favoring Kansas City: Wacha is a reliable above-average veteran (career 3.84 ERA/1697 IP, xERA 3.94, 1.02 WHIP) while Leiter is below-average and walk-prone (career 4.79 ERA, xERA 4.65, BB/9 ~4.0). With two weak offenses (.676 vs .6",
     "bankroll_after": "762.02"
+  },
+  {
+    "date": "2026-06-01",
+    "game": "Texas Rangers @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "-119.0",
+    "line": "-124.0",
+    "units": "1",
+    "stake_usd": "38.0",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "deGrom (career 2.62 ERA, prior-year xERA 3.36, elite K-BB) substantially outclasses McGreevy, whose 2.98 ERA masks a 5.64 xERA and .368 xwOBA \u00e2\u20ac\u201d poor contact quality that signals regression. The market priced Texas at only -124 by anchoring on McGre",
+    "bankroll_after": "724.02"
   }
 ]
